@@ -1,0 +1,1576 @@
+<ShopMenuTypes xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ShopMenuList>
+    <ShopMenu>
+      <ID>BlackMarket</ID>
+      <Name>Black Market</Name>
+      <GroupName />
+      <Items>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Coca Leaves</ModItemName>
+          <PurchasePrice>40</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>20</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>50</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Chemicals</ModItemName>
+          <PurchasePrice>15</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>100</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Gasoline</ModItemName>
+          <PurchasePrice>8</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>false</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>100</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Acetone</ModItemName>
+          <PurchasePrice>12</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>false</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>10</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>100</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Lysergic acid</ModItemName>
+          <PurchasePrice>10</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>100</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Blotter Paper</ModItemName>
+          <PurchasePrice>5</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>false</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>20</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>200</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Vitamin Powder</ModItemName>
+          <PurchasePrice>3</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>false</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>10</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>500</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Morphine</ModItemName>
+          <PurchasePrice>40</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>50</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>100</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Syringe</ModItemName>
+          <PurchasePrice>5</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>50</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>1000</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+      </Items>
+    </ShopMenu>
+    <ShopMenu>
+      <ID>FarmersMarket</ID>
+      <Name>Farmers Market</Name>
+      <GroupName />
+      <Items>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Plant Pot</ModItemName>
+          <PurchasePrice>8</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>false</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>300</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Cannabis Seed</ModItemName>
+          <PurchasePrice>20</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>250</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Fertiliser</ModItemName>
+          <PurchasePrice>15</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>false</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>250</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Bottle of Raine Water</ModItemName>
+          <PurchasePrice>2</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>false</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>300</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+      </Items>
+    </ShopMenu>
+    <ShopMenu>
+      <ID>DealerHangoutMenu14</ID>
+      <Name>DealerHangoutMenu14</Name>
+      <GroupName />
+      <Items>
+        <MenuItem xsi:type="VariablePriceMenuItem">
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>LSD</ModItemName>
+          <PurchasePrice>5</PurchasePrice>
+          <SalesPrice>2</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>15</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>10</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+          <MinSalesPrice>2</MinSalesPrice>
+          <MaxSalesPrice>3</MaxSalesPrice>
+          <MinPurchasePrice>5</MinPurchasePrice>
+          <MaxPurchasePrice>8</MaxPurchasePrice>
+        </MenuItem>
+        <MenuItem xsi:type="VariablePriceMenuItem">
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Cocaine</ModItemName>
+          <PurchasePrice>200</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>15</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>10</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+          <MinSalesPrice>-1</MinSalesPrice>
+          <MaxSalesPrice>-1</MaxSalesPrice>
+          <MinPurchasePrice>200</MinPurchasePrice>
+          <MaxPurchasePrice>215</MaxPurchasePrice>
+        </MenuItem>
+        <MenuItem xsi:type="VariablePriceMenuItem">
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Toilet Cleaner</ModItemName>
+          <PurchasePrice>5</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>15</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>10</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+          <MinSalesPrice>14</MinSalesPrice>
+          <MaxSalesPrice>16</MaxSalesPrice>
+          <MinPurchasePrice>17</MinPurchasePrice>
+          <MaxPurchasePrice>20</MaxPurchasePrice>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Brass Knuckles</ModItemName>
+          <PurchasePrice>150</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Switchblade</ModItemName>
+          <PurchasePrice>55</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+        <MenuItem xsi:type="VariablePriceMenuItem">
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Bashed Coke</ModItemName>
+          <PurchasePrice>50</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>15</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>10</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+          <MinSalesPrice>0</MinSalesPrice>
+          <MaxSalesPrice>0</MaxSalesPrice>
+          <MinPurchasePrice>50</MinPurchasePrice>
+          <MaxPurchasePrice>70</MaxPurchasePrice>
+        </MenuItem>
+        <MenuItem>
+          <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+          <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+          <ModItemName>Toto 12 Guage Sawed-Off</ModItemName>
+          <PurchasePrice>5550</PurchasePrice>
+          <SalesPrice>-1</SalesPrice>
+          <IsIllicilt>true</IsIllicilt>
+          <Extras />
+          <SubPrice>1</SubPrice>
+          <SubAmount>30</SubAmount>
+          <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+          <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+          <PurchaseIncrement>1</PurchaseIncrement>
+          <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+          <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+          <IsFree>false</IsFree>
+        </MenuItem>
+      </Items>
+    </ShopMenu>
+	</ShopMenuList>
+  <ShopMenuGroupList>
+    <ShopMenuGroup>
+      <ID>LSDDealerMenu</ID>
+      <Name>LSD Dealer Menus</Name>
+      <CategoryID>DrugDealerMenu</CategoryID>
+      <PossibleShopMenus>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>LSD Dealer 1</Name>
+            <GroupName>LSDDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>LSD</ModItemName>
+                <PurchasePrice>5</PurchasePrice>
+                <SalesPrice>2</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>10</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>10</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>LSD Dealer 2</Name>
+            <GroupName>LSDDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>LSD</ModItemName>
+                <PurchasePrice>6</PurchasePrice>
+                <SalesPrice>4</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>11</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>9</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>LSD Dealer 3</Name>
+            <GroupName>LSDDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>LSD</ModItemName>
+                <PurchasePrice>5</PurchasePrice>
+                <SalesPrice>3</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>12</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>12</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Combat Knife</ModItemName>
+                <PurchasePrice>2200</PurchasePrice>
+                <SalesPrice>-1</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Switchblade</ModItemName>
+                <PurchasePrice>2000</PurchasePrice>
+                <SalesPrice>-1</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>LSD Dealer 4</Name>
+            <GroupName>LSDDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>LSD</ModItemName>
+                <PurchasePrice>5</PurchasePrice>
+                <SalesPrice>2</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>13</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>13</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Vom Feuer KEK-9</ModItemName>
+                <PurchasePrice>6500</PurchasePrice>
+                <SalesPrice>-1</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>LSD Dealer 5</Name>
+            <GroupName>LSDDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>LSD</ModItemName>
+                <PurchasePrice>5</PurchasePrice>
+                <SalesPrice>3</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>11</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>12</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+      </PossibleShopMenus>
+    </ShopMenuGroup>
+    <ShopMenuGroup>
+      <ID>LSDCustomerMenu</ID>
+      <Name>LSD Customer Menus</Name>
+      <CategoryID>DrugCustomerMenu</CategoryID>
+      <PossibleShopMenus>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugCustomerMenu</ID>
+            <Name>LSD Customer 1</Name>
+            <GroupName />
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>LSD</ModItemName>
+                <PurchasePrice>0</PurchasePrice>
+                <SalesPrice>5</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>6</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugCustomerMenu</ID>
+            <Name>LSD Customer 2</Name>
+            <GroupName />
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>LSD</ModItemName>
+                <PurchasePrice>0</PurchasePrice>
+                <SalesPrice>6</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>7</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugCustomerMenu</ID>
+            <Name>LSD Customer 3</Name>
+            <GroupName />
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>LSD</ModItemName>
+                <PurchasePrice>0</PurchasePrice>
+                <SalesPrice>8</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>8</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugCustomerMenu</ID>
+            <Name>LSD Customer 4</Name>
+            <GroupName />
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>LSD</ModItemName>
+                <PurchasePrice>0</PurchasePrice>
+                <SalesPrice>6</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>6</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+      </PossibleShopMenus>
+    </ShopMenuGroup>
+    <ShopMenuGroup>
+      <ID>CocaineCustomerMenu</ID>
+      <Name>Cocaine Customer Menus</Name>
+      <CategoryID>DrugCustomerMenu</CategoryID>
+      <PossibleShopMenus>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugCustomerMenu</ID>
+            <Name>Cocaine Customer 1</Name>
+            <GroupName />
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Cocaine</ModItemName>
+                <PurchasePrice>0</PurchasePrice>
+                <SalesPrice>250</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>6</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugCustomerMenu</ID>
+            <Name>Cocaine Customer 2</Name>
+            <GroupName />
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Cocaine</ModItemName>
+                <PurchasePrice>0</PurchasePrice>
+                <SalesPrice>255</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>7</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugCustomerMenu</ID>
+            <Name>Cocaine Customer 3</Name>
+            <GroupName />
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Cocaine</ModItemName>
+                <PurchasePrice>0</PurchasePrice>
+                <SalesPrice>240</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>8</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugCustomerMenu</ID>
+            <Name>Cocaine Customer 4</Name>
+            <GroupName />
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Cocaine</ModItemName>
+                <PurchasePrice>0</PurchasePrice>
+                <SalesPrice>230</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>6</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+      </PossibleShopMenus>
+    </ShopMenuGroup>
+    <ShopMenuGroup>
+      <ID>CocaineDealerMenu</ID>
+      <Name>Cocaine Dealer Menus</Name>
+      <CategoryID>DrugDealerMenu</CategoryID>
+      <PossibleShopMenus>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>Cocaine Dealer 1</Name>
+            <GroupName>CocaineDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Cocaine</ModItemName>
+                <PurchasePrice>200</PurchasePrice>
+                <SalesPrice>0</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>10</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>10</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>Cocaine Dealer 2</Name>
+            <GroupName>CocaineDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Cocaine</ModItemName>
+                <PurchasePrice>200</PurchasePrice>
+                <SalesPrice>0</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>11</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>9</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>Cocaine Dealer 3</Name>
+            <GroupName>CocaineDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Cocaine</ModItemName>
+                <PurchasePrice>200</PurchasePrice>
+                <SalesPrice>0</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>12</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>12</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Combat Knife</ModItemName>
+                <PurchasePrice>2020</PurchasePrice>
+                <SalesPrice>-1</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Switchblade</ModItemName>
+                <PurchasePrice>1300</PurchasePrice>
+                <SalesPrice>-1</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>Cocaine Dealer 4</Name>
+            <GroupName>CocaineDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Cocaine</ModItemName>
+                <PurchasePrice>200</PurchasePrice>
+                <SalesPrice>0</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>13</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>13</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Vom Feuer KEK-9</ModItemName>
+                <PurchasePrice>5605</PurchasePrice>
+                <SalesPrice>-1</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>Cocaine Dealer 5</Name>
+            <GroupName>CocaineDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Cocaine</ModItemName>
+                <PurchasePrice>203</PurchasePrice>
+                <SalesPrice>0</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>11</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>12</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+      </PossibleShopMenus>
+    </ShopMenuGroup>
+    <ShopMenuGroup>
+      <ID>BashedCokeCustomerMenu</ID>
+      <Name>Bashed Coke Customer Menus</Name>
+      <CategoryID>DrugCustomerMenu</CategoryID>
+      <PossibleShopMenus>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugCustomerMenu</ID>
+            <Name>Bashed Coke Customer 1</Name>
+            <GroupName />
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Bashed Coke</ModItemName>
+                <PurchasePrice>0</PurchasePrice>
+                <SalesPrice>65</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>10</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugCustomerMenu</ID>
+            <Name>Bashed Coke Customer 2</Name>
+            <GroupName />
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Bashed Coke</ModItemName>
+                <PurchasePrice>0</PurchasePrice>
+                <SalesPrice>70</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>12</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>12</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugCustomerMenu</ID>
+            <Name>Bashed Coke Customer 3</Name>
+            <GroupName />
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Bashed Coke</ModItemName>
+                <PurchasePrice>0</PurchasePrice>
+                <SalesPrice>60</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>14</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>14</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugCustomerMenu</ID>
+            <Name>Bashed Coke Customer 4</Name>
+            <GroupName />
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Bashed Coke</ModItemName>
+                <PurchasePrice>0</PurchasePrice>
+                <SalesPrice>50</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>16</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>16</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+      </PossibleShopMenus>
+    </ShopMenuGroup>
+    <ShopMenuGroup>
+      <ID>BashedCokeDealerMenu</ID>
+      <Name>Bashed Coke Dealer Menus</Name>
+      <CategoryID>DrugDealerMenu</CategoryID>
+      <PossibleShopMenus>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>Bashed Coke Dealer 1</Name>
+            <GroupName>BashedCokeDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Bashed Coke</ModItemName>
+                <PurchasePrice>70</PurchasePrice>
+                <SalesPrice>50</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>10</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>14</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>Bashed Coke Dealer 2</Name>
+            <GroupName>BashedCokeDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Bashed Coke</ModItemName>
+                <PurchasePrice>70</PurchasePrice>
+                <SalesPrice>55</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>11</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>16</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>Bashed Coke Dealer 3</Name>
+            <GroupName>BashedCokeDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Bashed Coke</ModItemName>
+                <PurchasePrice>80</PurchasePrice>
+                <SalesPrice>60</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>12</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>14</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Combat Knife</ModItemName>
+                <PurchasePrice>1320</PurchasePrice>
+                <SalesPrice>-1</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Switchblade</ModItemName>
+                <PurchasePrice>1300</PurchasePrice>
+                <SalesPrice>-1</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>Bashed Coke Dealer 4</Name>
+            <GroupName>BashedCokeDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Bashed Coke</ModItemName>
+                <PurchasePrice>80</PurchasePrice>
+                <SalesPrice>65</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>13</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>18</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Vom Feuer P69</ModItemName>
+                <PurchasePrice>5200</PurchasePrice>
+                <SalesPrice>-1</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>-1</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>-1</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+        <PercentageSelectShopMenu>
+          <ShopMenu>
+            <ID>DrugDealerMenu</ID>
+            <Name>Bashed Coke Dealer 5</Name>
+            <GroupName>BashedCokeDealerMenu</GroupName>
+            <Items>
+              <MenuItem>
+                <NumberOfItemsSoldToPlayer>0</NumberOfItemsSoldToPlayer>
+                <NumberOfItemsPurchasedByPlayer>0</NumberOfItemsPurchasedByPlayer>
+                <ModItemName>Bashed Coke</ModItemName>
+                <PurchasePrice>65</PurchasePrice>
+                <SalesPrice>45</SalesPrice>
+                <IsIllicilt>true</IsIllicilt>
+                <Extras />
+                <SubPrice>1</SubPrice>
+                <SubAmount>30</SubAmount>
+                <MinimumPurchaseAmount>1</MinimumPurchaseAmount>
+                <MaximumPurchaseAmount>10</MaximumPurchaseAmount>
+                <PurchaseIncrement>1</PurchaseIncrement>
+                <NumberOfItemsToSellToPlayer>11</NumberOfItemsToSellToPlayer>
+                <NumberOfItemsToPurchaseFromPlayer>16</NumberOfItemsToPurchaseFromPlayer>
+                <IsFree>false</IsFree>
+              </MenuItem>
+            </Items>
+          </ShopMenu>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectShopMenu>
+      </PossibleShopMenus>
+    </ShopMenuGroup>
+  </ShopMenuGroupList>
+  <ShopMenuGroupContainers>
+    <ShopMenuGroupContainer>
+      <ID>PoorAreaDrugCustomerMenuGroupID</ID>
+      <Name>Poor Area Customer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>LSDCustomerMenu</ShopMenuGroupID>
+          <SelectChance>4</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>MiddleAreaDrugCustomerMenuGroupID</ID>
+      <Name>Middle Area Customer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>LSDCustomerMenu</ShopMenuGroupID>
+          <SelectChance>15</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>RichAreaDrugCustomerMenuGroupID</ID>
+      <Name>Rich Area Customer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>LSDCustomerMenu</ShopMenuGroupID>
+          <SelectChance>10</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>PoorAreaDrugDealerMenuGroupID</ID>
+      <Name>Poor Area Dealer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>LSDDealerMenu</ShopMenuGroupID>
+          <SelectChance>4</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>MiddleAreaDrugDealerMenuGroupID</ID>
+      <Name>Middle Area Dealer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>LSDDealerMenu</ShopMenuGroupID>
+          <SelectChance>8</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>RichAreaDrugDealerMenuGroupID</ID>
+      <Name>Rich Area Dealer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>LSDDealerMenu</ShopMenuGroupID>
+          <SelectChance>3</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>LSDAreaDrugDealerMenuGroupID</ID>
+      <Name>LSD Area Dealer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>LSDDealerMenu</ShopMenuGroupID>
+          <SelectChance>10</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>LSDDealerMenu</ShopMenuGroupID>
+          <SelectChance>90</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>LSDAreaDrugCustomerMenuGroupID</ID>
+      <Name>LSD Area Customer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>LSDCustomerMenu</ShopMenuGroupID>
+          <SelectChance>15</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>LSDCustomerMenu</ShopMenuGroupID>
+          <SelectChance>85</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>PoorAreaDrugCustomerMenuGroupID</ID>
+      <Name>Poor Area Customer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>CocaineCustomerMenu</ShopMenuGroupID>
+          <SelectChance>1</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>MiddleAreaDrugCustomerMenuGroupID</ID>
+      <Name>Middle Area Customer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>CocaineCustomerMenu</ShopMenuGroupID>
+          <SelectChance>25</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>RichAreaDrugCustomerMenuGroupID</ID>
+      <Name>Rich Area Customer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>CocaineCustomerMenu</ShopMenuGroupID>
+          <SelectChance>30</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>CocaineAreaDrugCustomerMenuGroupID</ID>
+      <Name>Cocaine Area Customer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>CocaineCustomerMenu</ShopMenuGroupID>
+          <SelectChance>15</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>CocaineCustomerMenu</ShopMenuGroupID>
+          <SelectChance>85</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>PoorAreaDrugDealerMenuGroupID</ID>
+      <Name>Poor Area Dealer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>CocaineDealerMenu</ShopMenuGroupID>
+          <SelectChance>4</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>MiddleAreaDrugDealerMenuGroupID</ID>
+      <Name>Middle Area Dealer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>CocaineDealerMenu</ShopMenuGroupID>
+          <SelectChance>8</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>RichAreaDrugDealerMenuGroupID</ID>
+      <Name>Rich Area Dealer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>CocaineDealerMenu</ShopMenuGroupID>
+          <SelectChance>3</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>CocaineAreaDrugDealerMenuGroupID</ID>
+      <Name>Cocaine Area Dealer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>CocaineDealerMenu</ShopMenuGroupID>
+          <SelectChance>10</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>CocaineDealerMenu</ShopMenuGroupID>
+          <SelectChance>90</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>PoorAreaDrugCustomerMenuGroupID</ID>
+      <Name>Poor Area Customer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>BashedCokeCustomerMenu</ShopMenuGroupID>
+          <SelectChance>38</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>MiddleAreaDrugCustomerMenuGroupID</ID>
+      <Name>Middle Area Customer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>BashedCokeCustomerMenu</ShopMenuGroupID>
+          <SelectChance>24</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>RichAreaDrugCustomerMenuGroupID</ID>
+      <Name>Rich Area Customer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>BashedCokeCustomerMenu</ShopMenuGroupID>
+          <SelectChance>12</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>BashedCokeAreaDrugCustomerMenuGroupID</ID>
+      <Name>Bashed Coke Area Customer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>BashedCokeCustomerMenu</ShopMenuGroupID>
+          <SelectChance>15</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>BashedCokeCustomerMenu</ShopMenuGroupID>
+          <SelectChance>85</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>PoorAreaDrugDealerMenuGroupID</ID>
+      <Name>Poor Area Dealer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>BashedCokeDealerMenu</ShopMenuGroupID>
+          <SelectChance>22</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>MiddleAreaDrugDealerMenuGroupID</ID>
+      <Name>Middle Area Dealer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>BashedCokeDealerMenu</ShopMenuGroupID>
+          <SelectChance>18</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>RichAreaDrugDealerMenuGroupID</ID>
+      <Name>Rich Area Dealer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>BashedCokeDealerMenu</ShopMenuGroupID>
+          <SelectChance>8</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+    <ShopMenuGroupContainer>
+      <ID>BashedCokeAreaDrugDealerMenuGroupID</ID>
+      <Name>Bashed Coke Area Dealer Menu</Name>
+      <PercentageSelectGropMenuGroups>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>BashedCokeDealerMenu</ShopMenuGroupID>
+          <SelectChance>10</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+        <PercentageSelectGroupMenuContainer>
+          <ShopMenuGroupID>BashedCokeDealerMenu</ShopMenuGroupID>
+          <SelectChance>90</SelectChance>
+        </PercentageSelectGroupMenuContainer>
+      </PercentageSelectGropMenuGroups>
+    </ShopMenuGroupContainer>
+  </ShopMenuGroupContainers>
+  <PropShopMenus />
+  <TreatmentOptionsList />
+  <PedVariationShopMenus />
+</ShopMenuTypes>

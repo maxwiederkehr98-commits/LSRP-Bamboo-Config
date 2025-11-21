@@ -1,0 +1,815 @@
+<PossibleLocations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DeadDrops />
+  <ScrapYards />
+  <BodyExports />
+  <CarCrushers />
+  <GangDens />
+  <GunStores />
+  <Hotels />
+  <ApartmentBuildings />
+  <Residences />
+  <CityHalls />
+  <VendingMachines />
+  <PoliceStations />
+  <Hospitals />
+  <FireStations />
+  <Restaurants />
+  <Businesses>
+    <Business>
+      <Name>Smoke Tree, Acid lab</Name>
+      <FullName>Smoke Tree, Acid lab</FullName>
+      <Description />
+      <IsEnabled>true</IsEnabled>
+      <IsTemporarilyClosed>false</IsTemporarilyClosed>
+      <BannerImagePath />
+      <RemoveBanner>false</RemoveBanner>
+      <IsBlipEnabled>true</IsBlipEnabled>
+      <MapIcon>375</MapIcon>
+      <MapIconColorString>White</MapIconColorString>
+      <MapIconScale>0.5</MapIconScale>
+      <MapIconRadius>1</MapIconRadius>
+      <MapOpenIconAlpha>1</MapOpenIconAlpha>
+      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
+      <EntrancePosition>
+        <X>2392.845</X>
+        <Y>3320.468</Y>
+        <Z>48.45683</Z>
+      </EntrancePosition>
+      <EntranceHeading>310.7903</EntranceHeading>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
+      <InteriorID>290305</InteriorID>
+      <IsWalkup>false</IsWalkup>
+      <IsOnSPMap>false</IsOnSPMap>
+      <IsOnMPMap>true</IsOnMPMap>
+      <ShowsOnDirectory>true</ShowsOnDirectory>
+      <ShowsOnTaxi>true</ShowsOnTaxi>
+      <TypeName>Business</TypeName>
+      <SortOrder>999</SortOrder>
+      <ScannerFilePath />
+      <ActivateCells>4</ActivateCells>
+      <ActivateDistance>225</ActivateDistance>
+      <DisableRegularInteract>false</DisableRegularInteract>
+      <CameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraPosition>
+      <CameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraDirection>
+      <CameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </CameraRotation>
+      <CanInteractWhenWanted>false</CanInteractWhenWanted>
+      <ShowsMarker>true</ShowsMarker>
+      <VendorLocations />
+      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
+      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
+      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
+      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
+      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
+      <VendorMeleePercent>20</VendorMeleePercent>
+      <VendorSidearmPercent>5</VendorSidearmPercent>
+      <VendorLongGunPercent>2</VendorLongGunPercent>
+      <VendorMoneyMin>-1</VendorMoneyMin>
+      <VendorMoneyMax>-1</VendorMoneyMax>
+      <VendorFightPercentage>-1</VendorFightPercentage>
+      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
+      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
+      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
+      <VendorCowerPercentage>-1</VendorCowerPercentage>
+      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+      <VehicleDeliveryLocations />
+      <RegisterCashMin>250</RegisterCashMin>
+      <RegisterCashMax>1550</RegisterCashMax>
+      <NoEntryCam>false</NoEntryCam>
+      <MinPriceRefreshHours>0</MinPriceRefreshHours>
+      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
+      <MinRestockHours>0</MinRestockHours>
+      <MaxRestockHours>0</MaxRestockHours>
+      <CloseRange>10</CloseRange>
+      <RacketeeringAmountMin>500</RacketeeringAmountMin>
+      <RacketeeringAmountMax>1000</RacketeeringAmountMax>
+      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
+      <PurchasePrice>100000</PurchasePrice>
+      <PayoutFrequency>7</PayoutFrequency>
+      <PayoutMin>2000</PayoutMin>
+      <PayoutMax>3000</PayoutMax>
+      <SalesPrice>100000</SalesPrice>
+      <MaxSalesPrice>105000</MaxSalesPrice>
+      <GrowthPercentage>20</GrowthPercentage>
+      <ButtonPromptText>Inquire About Acid lab</ButtonPromptText>
+      <PossibleModItemPayouts>
+        <string>LSD</string>
+      </PossibleModItemPayouts>
+      <ModItemPayoutAmount>200</ModItemPayoutAmount>
+    </Business>
+    <Business>
+      <Name>68 Bypass, Acid lab</Name>
+      <FullName>68 Bypass, Acid lab</FullName>
+      <Description />
+      <IsEnabled>true</IsEnabled>
+      <IsTemporarilyClosed>false</IsTemporarilyClosed>
+      <BannerImagePath />
+      <RemoveBanner>false</RemoveBanner>
+      <IsBlipEnabled>true</IsBlipEnabled>
+      <MapIcon>375</MapIcon>
+      <MapIconColorString>White</MapIconColorString>
+      <MapIconScale>0.5</MapIconScale>
+      <MapIconRadius>1</MapIconRadius>
+      <MapOpenIconAlpha>1</MapOpenIconAlpha>
+      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
+      <EntrancePosition>
+        <X>524.6445</X>
+        <Y>3080.557</Y>
+        <Z>40.91254</Z>
+      </EntrancePosition>
+      <EntranceHeading>152.7066</EntranceHeading>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
+      <InteriorID>290305</InteriorID>
+      <IsWalkup>false</IsWalkup>
+      <IsOnSPMap>false</IsOnSPMap>
+      <IsOnMPMap>true</IsOnMPMap>
+      <ShowsOnDirectory>true</ShowsOnDirectory>
+      <ShowsOnTaxi>true</ShowsOnTaxi>
+      <TypeName>Business</TypeName>
+      <SortOrder>999</SortOrder>
+      <ScannerFilePath />
+      <ActivateCells>4</ActivateCells>
+      <ActivateDistance>225</ActivateDistance>
+      <DisableRegularInteract>false</DisableRegularInteract>
+      <CameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraPosition>
+      <CameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraDirection>
+      <CameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </CameraRotation>
+      <CanInteractWhenWanted>false</CanInteractWhenWanted>
+      <ShowsMarker>true</ShowsMarker>
+      <VendorLocations />
+      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
+      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
+      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
+      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
+      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
+      <VendorMeleePercent>20</VendorMeleePercent>
+      <VendorSidearmPercent>5</VendorSidearmPercent>
+      <VendorLongGunPercent>2</VendorLongGunPercent>
+      <VendorMoneyMin>-1</VendorMoneyMin>
+      <VendorMoneyMax>-1</VendorMoneyMax>
+      <VendorFightPercentage>-1</VendorFightPercentage>
+      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
+      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
+      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
+      <VendorCowerPercentage>-1</VendorCowerPercentage>
+      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+      <VehicleDeliveryLocations />
+      <RegisterCashMin>250</RegisterCashMin>
+      <RegisterCashMax>1550</RegisterCashMax>
+      <NoEntryCam>false</NoEntryCam>
+      <MinPriceRefreshHours>0</MinPriceRefreshHours>
+      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
+      <MinRestockHours>0</MinRestockHours>
+      <MaxRestockHours>0</MaxRestockHours>
+      <CloseRange>10</CloseRange>
+      <RacketeeringAmountMin>500</RacketeeringAmountMin>
+      <RacketeeringAmountMax>1000</RacketeeringAmountMax>
+      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
+      <PurchasePrice>100000</PurchasePrice>
+      <PayoutFrequency>7</PayoutFrequency>
+      <PayoutMin>2000</PayoutMin>
+      <PayoutMax>3000</PayoutMax>
+      <SalesPrice>100000</SalesPrice>
+      <MaxSalesPrice>105000</MaxSalesPrice>
+      <GrowthPercentage>20</GrowthPercentage>
+      <ButtonPromptText>Inquire About Acid lab</ButtonPromptText>
+      <PossibleModItemPayouts>
+        <string>LSD</string>
+      </PossibleModItemPayouts>
+      <ModItemPayoutAmount>200</ModItemPayoutAmount>
+    </Business>
+    <Business>
+      <Name>Harmony, Acid lab</Name>
+      <FullName>Harmony, Acid lab</FullName>
+      <Description />
+      <IsEnabled>true</IsEnabled>
+      <IsTemporarilyClosed>false</IsTemporarilyClosed>
+      <BannerImagePath />
+      <RemoveBanner>false</RemoveBanner>
+      <IsBlipEnabled>true</IsBlipEnabled>
+      <MapIcon>375</MapIcon>
+      <MapIconColorString>White</MapIconColorString>
+      <MapIconScale>0.5</MapIconScale>
+      <MapIconRadius>1</MapIconRadius>
+      <MapOpenIconAlpha>1</MapOpenIconAlpha>
+      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
+      <EntrancePosition>
+        <X>367.0699</X>
+        <Y>2571.595</Y>
+        <Z>44.52882</Z>
+      </EntrancePosition>
+      <EntranceHeading>118.0236</EntranceHeading>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
+      <InteriorID>290305</InteriorID>
+      <IsWalkup>false</IsWalkup>
+      <IsOnSPMap>false</IsOnSPMap>
+      <IsOnMPMap>true</IsOnMPMap>
+      <ShowsOnDirectory>true</ShowsOnDirectory>
+      <ShowsOnTaxi>true</ShowsOnTaxi>
+      <TypeName>Business</TypeName>
+      <SortOrder>999</SortOrder>
+      <ScannerFilePath />
+      <ActivateCells>4</ActivateCells>
+      <ActivateDistance>225</ActivateDistance>
+      <DisableRegularInteract>false</DisableRegularInteract>
+      <CameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraPosition>
+      <CameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraDirection>
+      <CameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </CameraRotation>
+      <CanInteractWhenWanted>false</CanInteractWhenWanted>
+      <ShowsMarker>true</ShowsMarker>
+      <VendorLocations />
+      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
+      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
+      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
+      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
+      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
+      <VendorMeleePercent>20</VendorMeleePercent>
+      <VendorSidearmPercent>5</VendorSidearmPercent>
+      <VendorLongGunPercent>2</VendorLongGunPercent>
+      <VendorMoneyMin>-1</VendorMoneyMin>
+      <VendorMoneyMax>-1</VendorMoneyMax>
+      <VendorFightPercentage>-1</VendorFightPercentage>
+      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
+      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
+      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
+      <VendorCowerPercentage>-1</VendorCowerPercentage>
+      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+      <VehicleDeliveryLocations />
+      <RegisterCashMin>250</RegisterCashMin>
+      <RegisterCashMax>1550</RegisterCashMax>
+      <NoEntryCam>false</NoEntryCam>
+      <MinPriceRefreshHours>0</MinPriceRefreshHours>
+      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
+      <MinRestockHours>0</MinRestockHours>
+      <MaxRestockHours>0</MaxRestockHours>
+      <CloseRange>10</CloseRange>
+      <RacketeeringAmountMin>500</RacketeeringAmountMin>
+      <RacketeeringAmountMax>1000</RacketeeringAmountMax>
+      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
+      <PurchasePrice>100000</PurchasePrice>
+      <PayoutFrequency>7</PayoutFrequency>
+      <PayoutMin>2000</PayoutMin>
+      <PayoutMax>3000</PayoutMax>
+      <SalesPrice>100000</SalesPrice>
+      <MaxSalesPrice>105000</MaxSalesPrice>
+      <GrowthPercentage>20</GrowthPercentage>
+      <ButtonPromptText>Inquire About Acid lab</ButtonPromptText>
+      <PossibleModItemPayouts>
+        <string>LSD</string>
+      </PossibleModItemPayouts>
+      <ModItemPayoutAmount>200</ModItemPayoutAmount>
+    </Business>
+    <Business>
+      <Name>Chopshop</Name>
+      <FullName>Chopshop</FullName>
+      <Description />
+      <IsEnabled>true</IsEnabled>
+      <IsTemporarilyClosed>false</IsTemporarilyClosed>
+      <BannerImagePath />
+      <RemoveBanner>false</RemoveBanner>
+      <IsBlipEnabled>true</IsBlipEnabled>
+      <MapIcon>375</MapIcon>
+      <MapIconColorString>White</MapIconColorString>
+      <MapIconScale>0.5</MapIconScale>
+      <MapIconRadius>1</MapIconRadius>
+      <MapOpenIconAlpha>1</MapOpenIconAlpha>
+      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
+      <EntrancePosition>
+        <X>947.3372</X>
+        <Y>-1548.16</Y>
+        <Z>30.84188</Z>
+      </EntrancePosition>
+      <EntranceHeading>269.6586</EntranceHeading>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
+      <InteriorID>293377</InteriorID>
+      <IsWalkup>false</IsWalkup>
+      <IsOnSPMap>false</IsOnSPMap>
+      <IsOnMPMap>true</IsOnMPMap>
+      <ShowsOnDirectory>true</ShowsOnDirectory>
+      <ShowsOnTaxi>true</ShowsOnTaxi>
+      <TypeName>Business</TypeName>
+      <SortOrder>999</SortOrder>
+      <ScannerFilePath />
+      <ActivateCells>4</ActivateCells>
+      <ActivateDistance>225</ActivateDistance>
+      <DisableRegularInteract>false</DisableRegularInteract>
+      <CameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraPosition>
+      <CameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraDirection>
+      <CameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </CameraRotation>
+      <CanInteractWhenWanted>false</CanInteractWhenWanted>
+      <ShowsMarker>true</ShowsMarker>
+      <VendorLocations />
+      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
+      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
+      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
+      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
+      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
+      <VendorMeleePercent>20</VendorMeleePercent>
+      <VendorSidearmPercent>5</VendorSidearmPercent>
+      <VendorLongGunPercent>2</VendorLongGunPercent>
+      <VendorMoneyMin>-1</VendorMoneyMin>
+      <VendorMoneyMax>-1</VendorMoneyMax>
+      <VendorFightPercentage>-1</VendorFightPercentage>
+      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
+      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
+      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
+      <VendorCowerPercentage>-1</VendorCowerPercentage>
+      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+      <VehicleDeliveryLocations />
+      <RegisterCashMin>250</RegisterCashMin>
+      <RegisterCashMax>1550</RegisterCashMax>
+      <NoEntryCam>false</NoEntryCam>
+      <MinPriceRefreshHours>0</MinPriceRefreshHours>
+      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
+      <MinRestockHours>0</MinRestockHours>
+      <MaxRestockHours>0</MaxRestockHours>
+      <CloseRange>10</CloseRange>
+      <RacketeeringAmountMin>500</RacketeeringAmountMin>
+      <RacketeeringAmountMax>1000</RacketeeringAmountMax>
+      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
+      <PurchasePrice>845000</PurchasePrice>
+      <PayoutFrequency>7</PayoutFrequency>
+      <PayoutMin>3500</PayoutMin>
+      <PayoutMax>4080</PayoutMax>
+      <SalesPrice>845000</SalesPrice>
+      <MaxSalesPrice>845000</MaxSalesPrice>
+      <GrowthPercentage>20</GrowthPercentage>
+      <ButtonPromptText>Inquire About Chopshop</ButtonPromptText>
+      <PossibleModItemPayouts />
+      <ModItemPayoutAmount>200</ModItemPayoutAmount>
+    </Business>
+    <Business>
+      <Name>Carson Ave, Car Wash</Name>
+      <FullName>Carson Ave, Car Wash</FullName>
+      <Description />
+      <IsEnabled>true</IsEnabled>
+      <IsTemporarilyClosed>false</IsTemporarilyClosed>
+      <BannerImagePath />
+      <RemoveBanner>false</RemoveBanner>
+      <IsBlipEnabled>true</IsBlipEnabled>
+      <MapIcon>375</MapIcon>
+      <MapIconColorString>White</MapIconColorString>
+      <MapIconScale>0.5</MapIconScale>
+      <MapIconRadius>1</MapIconRadius>
+      <MapOpenIconAlpha>1</MapOpenIconAlpha>
+      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
+      <EntrancePosition>
+        <X>171.2798</X>
+        <Y>-1722.784</Y>
+        <Z>29.3917</Z>
+      </EntrancePosition>
+      <EntranceHeading>137.4388</EntranceHeading>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
+      <InteriorID>298497</InteriorID>
+      <IsWalkup>false</IsWalkup>
+      <IsOnSPMap>false</IsOnSPMap>
+      <IsOnMPMap>true</IsOnMPMap>
+      <ShowsOnDirectory>true</ShowsOnDirectory>
+      <ShowsOnTaxi>true</ShowsOnTaxi>
+      <TypeName>Business</TypeName>
+      <SortOrder>999</SortOrder>
+      <ScannerFilePath />
+      <ActivateCells>4</ActivateCells>
+      <ActivateDistance>225</ActivateDistance>
+      <DisableRegularInteract>false</DisableRegularInteract>
+      <CameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraPosition>
+      <CameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraDirection>
+      <CameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </CameraRotation>
+      <CanInteractWhenWanted>false</CanInteractWhenWanted>
+      <ShowsMarker>true</ShowsMarker>
+      <VendorLocations />
+      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
+      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
+      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
+      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
+      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
+      <VendorMeleePercent>20</VendorMeleePercent>
+      <VendorSidearmPercent>5</VendorSidearmPercent>
+      <VendorLongGunPercent>2</VendorLongGunPercent>
+      <VendorMoneyMin>-1</VendorMoneyMin>
+      <VendorMoneyMax>-1</VendorMoneyMax>
+      <VendorFightPercentage>-1</VendorFightPercentage>
+      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
+      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
+      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
+      <VendorCowerPercentage>-1</VendorCowerPercentage>
+      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+      <VehicleDeliveryLocations />
+      <RegisterCashMin>250</RegisterCashMin>
+      <RegisterCashMax>1550</RegisterCashMax>
+      <NoEntryCam>false</NoEntryCam>
+      <MinPriceRefreshHours>0</MinPriceRefreshHours>
+      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
+      <MinRestockHours>0</MinRestockHours>
+      <MaxRestockHours>0</MaxRestockHours>
+      <CloseRange>10</CloseRange>
+      <RacketeeringAmountMin>500</RacketeeringAmountMin>
+      <RacketeeringAmountMax>1000</RacketeeringAmountMax>
+      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
+      <PurchasePrice>146000</PurchasePrice>
+      <PayoutFrequency>5</PayoutFrequency>
+      <PayoutMin>1000</PayoutMin>
+      <PayoutMax>2500</PayoutMax>
+      <SalesPrice>65000</SalesPrice>
+      <MaxSalesPrice>0</MaxSalesPrice>
+      <IsOwnable>false</IsOwnable>
+      <GrowthPercentage>20</GrowthPercentage>
+      <ButtonPromptText>Inquire About Car Wash</ButtonPromptText>
+      <PossibleModItemPayouts />
+      <ModItemPayoutAmount>1</ModItemPayoutAmount>
+    </Business>
+    <Business>
+      <Name>Bail Office</Name>
+      <FullName>Bail Office</FullName>
+      <Description />
+      <IsEnabled>true</IsEnabled>
+      <IsTemporarilyClosed>false</IsTemporarilyClosed>
+      <BannerImagePath>businesses\bailoffice.png</BannerImagePath>
+      <RemoveBanner>false</RemoveBanner>
+      <IsBlipEnabled>true</IsBlipEnabled>
+      <MapIcon>375</MapIcon>
+      <MapIconColorString>White</MapIconColorString>
+      <MapIconScale>0.5</MapIconScale>
+      <MapIconRadius>1</MapIconRadius>
+      <MapOpenIconAlpha>1</MapOpenIconAlpha>
+      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
+      <EntrancePosition>
+        <X>137.4319</X>
+        <Y>-1695.768</Y>
+        <Z>29.29166</Z>
+      </EntrancePosition>
+      <EntranceHeading>322.6513</EntranceHeading>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
+      <InteriorID>295425</InteriorID>
+      <IsWalkup>false</IsWalkup>
+      <IsOnSPMap>false</IsOnSPMap>
+      <IsOnMPMap>true</IsOnMPMap>
+      <ShowsOnDirectory>true</ShowsOnDirectory>
+      <ShowsOnTaxi>true</ShowsOnTaxi>
+      <TypeName>Business</TypeName>
+      <SortOrder>999</SortOrder>
+      <ScannerFilePath />
+      <ActivateCells>4</ActivateCells>
+      <ActivateDistance>225</ActivateDistance>
+      <DisableRegularInteract>false</DisableRegularInteract>
+      <CameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraPosition>
+      <CameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraDirection>
+      <CameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </CameraRotation>
+      <CanInteractWhenWanted>false</CanInteractWhenWanted>
+      <ShowsMarker>true</ShowsMarker>
+      <VendorLocations />
+      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
+      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
+      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
+      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
+      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
+      <VendorMeleePercent>20</VendorMeleePercent>
+      <VendorSidearmPercent>5</VendorSidearmPercent>
+      <VendorLongGunPercent>2</VendorLongGunPercent>
+      <VendorMoneyMin>-1</VendorMoneyMin>
+      <VendorMoneyMax>-1</VendorMoneyMax>
+      <VendorFightPercentage>-1</VendorFightPercentage>
+      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
+      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
+      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
+      <VendorCowerPercentage>-1</VendorCowerPercentage>
+      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+      <VehicleDeliveryLocations />
+      <RegisterCashMin>250</RegisterCashMin>
+      <RegisterCashMax>1550</RegisterCashMax>
+      <NoEntryCam>false</NoEntryCam>
+      <MinPriceRefreshHours>0</MinPriceRefreshHours>
+      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
+      <MinRestockHours>0</MinRestockHours>
+      <MaxRestockHours>0</MaxRestockHours>
+      <CloseRange>10</CloseRange>
+      <RacketeeringAmountMin>500</RacketeeringAmountMin>
+      <RacketeeringAmountMax>1000</RacketeeringAmountMax>
+      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
+      <PurchasePrice>908000</PurchasePrice>
+      <PayoutFrequency>7</PayoutFrequency>
+      <PayoutMin>7000</PayoutMin>
+      <PayoutMax>10000</PayoutMax>
+      <SalesPrice>908000</SalesPrice>
+      <MaxSalesPrice>908000</MaxSalesPrice>
+      <IsOwnable>false</IsOwnable>
+      <GrowthPercentage>20</GrowthPercentage>
+      <ButtonPromptText>Inquire About Bail Office</ButtonPromptText>
+      <PossibleModItemPayouts />
+      <ModItemPayoutAmount>1</ModItemPayoutAmount>
+    </Business>
+    <Business>
+      <Name>Auto Re-Perez</Name>
+      <FullName>Auto Re-Perez</FullName>
+      <Description />
+      <IsEnabled>true</IsEnabled>
+      <IsTemporarilyClosed>false</IsTemporarilyClosed>
+      <BannerImagePath />
+      <RemoveBanner>false</RemoveBanner>
+      <IsBlipEnabled>true</IsBlipEnabled>
+      <MapIcon>375</MapIcon>
+      <MapIconColorString>White</MapIconColorString>
+      <MapIconScale>0.5</MapIconScale>
+      <MapIconRadius>1</MapIconRadius>
+      <MapOpenIconAlpha>1</MapOpenIconAlpha>
+      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
+      <EntrancePosition>
+        <X>485.916</X>
+        <Y>-1296.079</Y>
+        <Z>29.58949</Z>
+      </EntrancePosition>
+      <EntranceHeading>269.2753</EntranceHeading>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
+      <InteriorID>-1</InteriorID>
+      <IsWalkup>false</IsWalkup>
+      <IsOnSPMap>true</IsOnSPMap>
+      <IsOnMPMap>true</IsOnMPMap>
+      <ShowsOnDirectory>true</ShowsOnDirectory>
+      <ShowsOnTaxi>true</ShowsOnTaxi>
+      <TypeName>Business</TypeName>
+      <SortOrder>999</SortOrder>
+      <ScannerFilePath />
+      <ActivateCells>4</ActivateCells>
+      <ActivateDistance>225</ActivateDistance>
+      <DisableRegularInteract>false</DisableRegularInteract>
+      <CameraPosition>
+        <X>505.379</X>
+        <Y>-1267.392</Y>
+        <Z>38.08203</Z>
+      </CameraPosition>
+      <CameraDirection>
+        <X>-0.8174471</X>
+        <Y>-0.5564998</Y>
+        <Z>-0.1486214</Z>
+      </CameraDirection>
+      <CameraRotation>
+        <Pitch>-8.54704</Pitch>
+        <Roll>1.726724E-06</Roll>
+        <Yaw>124.2462</Yaw>
+      </CameraRotation>
+      <CanInteractWhenWanted>false</CanInteractWhenWanted>
+      <ShowsMarker>true</ShowsMarker>
+      <VendorLocations />
+      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
+      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
+      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
+      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
+      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
+      <VendorMeleePercent>20</VendorMeleePercent>
+      <VendorSidearmPercent>5</VendorSidearmPercent>
+      <VendorLongGunPercent>2</VendorLongGunPercent>
+      <VendorMoneyMin>-1</VendorMoneyMin>
+      <VendorMoneyMax>-1</VendorMoneyMax>
+      <VendorFightPercentage>-1</VendorFightPercentage>
+      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
+      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
+      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
+      <VendorCowerPercentage>-1</VendorCowerPercentage>
+      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+      <VehicleDeliveryLocations />
+      <RegisterCashMin>250</RegisterCashMin>
+      <RegisterCashMax>1550</RegisterCashMax>
+      <NoEntryCam>false</NoEntryCam>
+      <MinPriceRefreshHours>0</MinPriceRefreshHours>
+      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
+      <MinRestockHours>0</MinRestockHours>
+      <MaxRestockHours>0</MaxRestockHours>
+      <CloseRange>10</CloseRange>
+      <RacketeeringAmountMin>500</RacketeeringAmountMin>
+      <RacketeeringAmountMax>1000</RacketeeringAmountMax>
+      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
+      <PurchasePrice>700000</PurchasePrice>
+      <PayoutFrequency>7</PayoutFrequency>
+      <PayoutMin>3250</PayoutMin>
+      <PayoutMax>4100</PayoutMax>
+      <SalesPrice>700000</SalesPrice>
+      <MaxSalesPrice>700000</MaxSalesPrice>
+      <IsOwnable>false</IsOwnable>
+      <GrowthPercentage>20</GrowthPercentage>
+      <ButtonPromptText>Inquire About Business</ButtonPromptText>
+      <PossibleModItemPayouts />
+      <ModItemPayoutAmount>1</ModItemPayoutAmount>
+    </Business>
+  </Businesses>
+  <Pharmacies />
+  <Dispensaries />
+  <HeadShops />
+  <HardwareStores />
+  <PawnShops />
+  <Landmarks />
+  <Banks />
+  <ConvenienceStores />
+  <GasStations />
+  <LiquorStores />
+  <FoodStands />
+  <CarDealerships />
+  <VehicleExporters />
+  <Forgers />
+  <GamblingDens />
+  <RepairGarages />
+  <Bars />
+  <DriveThrus />
+  <ClothingShops />
+  <BusStops />
+  <SubwayStations />
+  <Prisons />
+  <Morgues />
+  <SportingGoodsStores />
+  <Airports />
+  <IllicitMarketplaces />
+  <BlankLocations />
+  <MilitaryBases />
+  <ExteriorCraftingLocations />
+  <BarberShops />
+  <PlasticSurgeryClinics />
+  <TattooShops />
+  <RaceMeetups />
+  <ATMMachines />
+  <GasPumps />
+  <CashRegisters />
+  <StoredSpawns />
+  <PedCustomizerLocation />
+</PossibleLocations>

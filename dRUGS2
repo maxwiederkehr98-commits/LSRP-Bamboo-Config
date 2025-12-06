@@ -1,3 +1,4 @@
+<ArrayOfCraftableItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Crystal Meth</Name>
     <Resultant>Methamphetamine</Resultant>
     <AnimationDictionary>anim@amb@business@meth@meth_monitoring_cooking@cooking@</AnimationDictionary>

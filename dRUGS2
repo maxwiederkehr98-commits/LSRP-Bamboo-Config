@@ -269,3 +269,5 @@
       <string>DrugLab</string>
     </CraftingFlags>
   </CraftableItem>  
+
+</ArrayOfCraftableItem>

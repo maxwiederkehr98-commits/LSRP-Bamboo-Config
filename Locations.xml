@@ -7054,12 +7054,12 @@
       <AssaultSpawnHeavyWeaponsPercent>80</AssaultSpawnHeavyWeaponsPercent>
     </GangDen>
     <GangDen>
-      <Name>Pavano Safehouse</Name>
-      <FullName>Pavano Safehouse</FullName>
+      <Name>Vipers Motorcycle Mechanics</Name>
+      <FullName>Vipers MC Mechanics</FullName>
       <Description />
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
-      <BannerImagePath>gangs\pavano.png</BannerImagePath>
+      <BannerImagePath>gangs\vipers.png</BannerImagePath>
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
       <MapIcon>378</MapIcon>
@@ -7069,11 +7069,11 @@
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
       <EntrancePosition>
-        <X>1662.302</X>
-        <Y>4776.384</Y>
-        <Z>42.00795</Z>
+        <X>37.940</X>
+        <Y>6454.402</Y>
+        <Z>31.425</Z>
       </EntrancePosition>
-      <EntranceHeading>279.1427</EntranceHeading>
+      <EntranceHeading>47.102</EntranceHeading>
       <OpenTime>0</OpenTime>
       <CloseTime>24</CloseTime>
       <InteriorID>-1</InteriorID>
@@ -7087,9 +7087,9 @@
       <ScannerFilePath />
       <ActivateCells>4</ActivateCells>
       <ActivateDistance>225</ActivateDistance>
-      <AssignedAssociationID>AMBIENT_GANG_PAVANO</AssignedAssociationID>
+      <AssignedAssociationID>AMBIENT_GANG_VIPERS</AssignedAssociationID>
       <DisableRegularInteract>false</DisableRegularInteract>
-      <MenuID>PavanoDenMenu</MenuID>
+      <MenuID>VipersDenMenu</MenuID>
       <CameraPosition>
         <X>0</X>
         <Y>0</Y>
@@ -7110,12 +7110,12 @@
       <PossiblePedSpawns>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>1664.384</X>
-            <Y>4765.325</Y>
-            <Z>42.0682</Z>
+            <X>40.533</X>
+            <Y>6456.316</Y>
+            <Z>31.425</Z>
           </Location>
-          <Heading>290.2068</Heading>
-          <Percentage>65</Percentage>
+          <Heading>213.057</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
@@ -7136,12 +7136,12 @@
         </ConditionalLocation>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>1662.094</X>
-            <Y>4778.333</Y>
-            <Z>42.00935</Z>
+            <X>23.235</X>
+            <Y>6462.283</Y>
+            <Z>31.427</Z>
           </Location>
-          <Heading>259.006</Heading>
-          <Percentage>65</Percentage>
+          <Heading>288.824</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
@@ -7162,12 +7162,12 @@
         </ConditionalLocation>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>1647.39</X>
-            <Y>4779.691</Y>
-            <Z>42.01637</Z>
+            <X>31.598</X>
+            <Y>6467.723</Y>
+            <Z>31.883</Z>
           </Location>
-          <Heading>9.346325</Heading>
-          <Percentage>65</Percentage>
+          <Heading>303.078</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
@@ -7188,12 +7188,12 @@
         </ConditionalLocation>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>1666.244</X>
-            <Y>4773.587</Y>
-            <Z>41.93539</Z>
+            <X>23.362</X>
+            <Y>6474.164</Y>
+            <Z>31.883</Z>
           </Location>
-          <Heading>215.5277</Heading>
-          <Percentage>65</Percentage>
+          <Heading>258.036</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
@@ -7214,12 +7214,12 @@
         </ConditionalLocation>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>1665.208</X>
-            <Y>4778.518</Y>
-            <Z>41.94879</Z>
+            <X>42.494</X>
+            <Y>6455.866</Y>
+            <Z>31.425</Z>
           </Location>
-          <Heading>271.264</Heading>
-          <Percentage>65</Percentage>
+          <Heading>87.003</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
@@ -7242,12 +7242,12 @@
       <PossibleVehicleSpawns>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>1669.677</X>
-            <Y>4776.892</Y>
-            <Z>41.22393</Z>
+            <X>34.944</X>
+            <Y>6447.875</Y>
+            <Z>31.425</Z>
           </Location>
-          <Heading>4.480381</Heading>
-          <Percentage>75</Percentage>
+          <Heading>250.480</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
@@ -7268,12 +7268,12 @@
         </ConditionalLocation>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>1662.887</X>
-            <Y>4768.458</Y>
-            <Z>41.3252</Z>
+            <X>35.922</X>
+            <Y>6449.996</Y>
+            <Z>31.425</Z>
           </Location>
-          <Heading>278.0306</Heading>
-          <Percentage>75</Percentage>
+          <Heading>250.480</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
@@ -7352,13 +7352,13 @@
       <RestrictAssaultSpawningUsingPedSpawns>false</RestrictAssaultSpawningUsingPedSpawns>
       <AssaultSpawnHeavyWeaponsPercent>80</AssaultSpawnHeavyWeaponsPercent>
     </GangDen>
-    <GangDen>
-      <Name>Lupisella Safehouse</Name>
-      <FullName>Lupisella Safehouse</FullName>
+	<GangDen>
+      <Name>Vipers Cartel Associates</Name>
+      <FullName>Vipers Cluckin Cartel Associates</FullName>
       <Description />
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
-      <BannerImagePath>gangs\lupisella.png</BannerImagePath>
+      <BannerImagePath>gangs\vipers.png</BannerImagePath>
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
       <MapIcon>378</MapIcon>
@@ -7368,14 +7368,14 @@
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
       <EntrancePosition>
-        <X>-229.6159</X>
-        <Y>6445.189</Y>
-        <Z>31.19745</Z>
+        <X>-70.993</X>
+        <Y>6253.419</Y>
+        <Z>31.090</Z>
       </EntrancePosition>
-      <EntranceHeading>139.3764</EntranceHeading>
+      <EntranceHeading>300.961</EntranceHeading>
       <OpenTime>0</OpenTime>
       <CloseTime>24</CloseTime>
-      <InteriorID>-1</InteriorID>
+      <InteriorID>304450</InteriorID>
       <IsWalkup>false</IsWalkup>
       <IsOnSPMap>true</IsOnSPMap>
       <IsOnMPMap>true</IsOnMPMap>
@@ -7386,9 +7386,9 @@
       <ScannerFilePath />
       <ActivateCells>4</ActivateCells>
       <ActivateDistance>225</ActivateDistance>
-      <AssignedAssociationID>AMBIENT_GANG_LUPISELLA</AssignedAssociationID>
+      <AssignedAssociationID>AMBIENT_GANG_CLUCKIN</AssignedAssociationID>
       <DisableRegularInteract>false</DisableRegularInteract>
-      <MenuID>LupisellaDenMenu</MenuID>
+      <MenuID>VipersDenMenu</MenuID>
       <CameraPosition>
         <X>0</X>
         <Y>0</Y>
@@ -7409,16 +7409,19 @@
       <PossiblePedSpawns>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>-233.3555</X>
-            <Y>6447.341</Y>
-            <Z>31.19741</Z>
+            <X>-69.819</X>
+            <Y>6251.094</Y>
+            <Z>31.090</Z>
           </Location>
-          <Heading>131.7259</Heading>
-          <Percentage>65</Percentage>
+          <Heading>86.636</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
+          <TaskRequirements>Guard</TaskRequirements>
+            <ForcedScenarios>
+            <string>WORLD_HUMAN_GUARD_STAND_CLUBHOUSE</string>
+          </ForcedScenarios>
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
@@ -7435,16 +7438,19 @@
         </ConditionalLocation>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>-227.5764</X>
-            <Y>6442.54</Y>
-            <Z>31.19769</Z>
+            <X>-75.265</X>
+            <Y>6253.053</Y>
+            <Z>31.090</Z>
           </Location>
-          <Heading>141.2697</Heading>
-          <Percentage>65</Percentage>
+          <Heading>260.094</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
+          <TaskRequirements>Guard</TaskRequirements>
+            <ForcedScenarios>
+            <string>WORLD_HUMAN_GUARD_STAND_CLUBHOUSE</string>
+          </ForcedScenarios>
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
@@ -7461,16 +7467,19 @@
         </ConditionalLocation>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>-217.9765</X>
-            <Y>6432.755</Y>
-            <Z>31.19775</Z>
+            <X>-113.373</X>
+            <Y>6178.243</Y>
+            <Z>31.021</Z>
           </Location>
-          <Heading>165.7642</Heading>
-          <Percentage>65</Percentage>
+          <Heading>33.037</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
+          <TaskRequirements>Guard</TaskRequirements>
+            <ForcedScenarios>
+            <string>WORLD_HUMAN_GUARD_STAND_CLUBHOUSE</string>
+          </ForcedScenarios>
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
@@ -7487,16 +7496,19 @@
         </ConditionalLocation>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>-212.6066</X>
-            <Y>6443.875</Y>
-            <Z>31.2976</Z>
+            <X>-140.376</X>
+            <Y>6148.213</Y>
+            <Z>32.335</Z>
           </Location>
-          <Heading>326.0233</Heading>
-          <Percentage>65</Percentage>
+          <Heading>173.583</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
+          <TaskRequirements>Guard</TaskRequirements>
+            <ForcedScenarios>
+            <string>WORLD_HUMAN_GUARD_STAND_CLUBHOUSE</string>
+          </ForcedScenarios>
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
@@ -7513,16 +7525,19 @@
         </ConditionalLocation>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>-215.7044</X>
-            <Y>6445.802</Y>
-            <Z>31.3135</Z>
+            <X>-155.181</X>
+            <Y>6154.370</Y>
+            <Z>31.206</Z>
           </Location>
-          <Heading>270.9214</Heading>
-          <Percentage>65</Percentage>
+          <Heading>219.039</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
+          <TaskRequirements>Guard</TaskRequirements>
+            <ForcedScenarios>
+            <string>WORLD_HUMAN_GUARD_STAND_CLUBHOUSE</string>
+          </ForcedScenarios>
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
@@ -7541,12 +7556,12 @@
       <PossibleVehicleSpawns>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>-226.1172</X>
-            <Y>6435.622</Y>
-            <Z>30.51782</Z>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
           </Location>
-          <Heading>232.3148</Heading>
-          <Percentage>75</Percentage>
+          <Heading>0.0</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
@@ -7567,12 +7582,12 @@
         </ConditionalLocation>
         <ConditionalLocation xsi:type="GangConditionalLocation">
           <Location>
-            <X>-210.5319</X>
-            <Y>6437.373</Y>
-            <Z>30.72163</Z>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
           </Location>
-          <Heading>327.138</Heading>
-          <Percentage>75</Percentage>
+          <Heading>0.0</Heading>
+          <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <AllowAirVehicle>false</AllowAirVehicle>
           <AllowBoat>false</AllowBoat>
@@ -8246,264 +8261,6 @@
       <DisableNearbyScenarios>false</DisableNearbyScenarios>
       <DisableScenarioDistance>50</DisableScenarioDistance>
       <MaxAssaultSpawns>15</MaxAssaultSpawns>
-      <RestrictAssaultSpawningUsingPedSpawns>false</RestrictAssaultSpawningUsingPedSpawns>
-      <AssaultSpawnHeavyWeaponsPercent>80</AssaultSpawnHeavyWeaponsPercent>
-    </GangDen>
-	<GangDen>
-      <Name>Gambetti Hangout</Name>
-      <FullName>Gambetti Hangout</FullName>
-      <Description />
-      <IsEnabled>true</IsEnabled>
-      <IsTemporarilyClosed>false</IsTemporarilyClosed>
-      <BannerImagePath>gangs\gambetti.png</BannerImagePath>
-      <RemoveBanner>false</RemoveBanner>
-      <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>378</MapIcon>
-      <MapIconColorString>White</MapIconColorString>
-      <MapIconScale>0.5</MapIconScale>
-      <MapIconRadius>1</MapIconRadius>
-      <MapOpenIconAlpha>1</MapOpenIconAlpha>
-      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
-      <EntrancePosition>
-        <X>-1345.474</X>
-        <Y>-1060.772</Y>
-        <Z>3.869167</Z>
-      </EntrancePosition>
-      <EntranceHeading>28.44025</EntranceHeading>
-      <OpenTime>0</OpenTime>
-      <CloseTime>24</CloseTime>
-      <InteriorID>-1</InteriorID>
-      <IsWalkup>false</IsWalkup>
-      <IsOnSPMap>true</IsOnSPMap>
-      <IsOnMPMap>true</IsOnMPMap>
-      <ShowsOnDirectory>false</ShowsOnDirectory>
-      <ShowsOnTaxi>true</ShowsOnTaxi>
-      <TypeName>Gang Den</TypeName>
-      <SortOrder>999</SortOrder>
-      <ScannerFilePath />
-      <ActivateCells>4</ActivateCells>
-      <ActivateDistance>225</ActivateDistance>
-      <AssignedAssociationID>AMBIENT_GANG_GAMBETTI</AssignedAssociationID>
-      <DisableRegularInteract>false</DisableRegularInteract>
-      <MenuID>GambettiDenMenu</MenuID>
-      <CameraPosition>
-        <X>-1310.185</X>
-        <Y>-1103.663</Y>
-        <Z>9.97826</Z>
-      </CameraPosition>
-      <CameraDirection>
-        <X>-0.7749938</X>
-        <Y>0.631762</Y>
-        <Z>0.01617113</Z>
-      </CameraDirection>
-      <CameraRotation>
-        <Pitch>0.9265779</Pitch>
-        <Roll>4.002587E-06</Roll>
-        <Yaw>50.81366</Yaw>
-      </CameraRotation>
-      <CanInteractWhenWanted>true</CanInteractWhenWanted>
-      <ShowsMarker>true</ShowsMarker>
-      <PossiblePedSpawns>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-            <X>-1347.77</X>
-            <Y>-1055.296</Y>
-            <Z>3.873879</Z>
-          </Location>
-          <Heading>118.7453</Heading>
-          <Percentage>100</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <AllowAirVehicle>false</AllowAirVehicle>
-          <AllowBoat>false</AllowBoat>
-          <TaskRequirements>Guard</TaskRequirements>
-		  <ForcedScenarios>
-            <string>WORLD_HUMAN_DRINKING</string>
-          </ForcedScenarios>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-          <ForceVehicleGroup>false</ForceVehicleGroup>
-          <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-        </ConditionalLocation>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-            <X>-1354.214</X>
-            <Y>-1057.372</Y>
-            <Z>3.869164</Z>
-          </Location>
-          <Heading>263.7535</Heading>
-          <Percentage>100</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <AllowAirVehicle>false</AllowAirVehicle>
-          <AllowBoat>false</AllowBoat>
-          <TaskRequirements>Guard</TaskRequirements>
-		  <ForcedScenarios>
-            <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-          </ForcedScenarios>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-          <ForceVehicleGroup>false</ForceVehicleGroup>
-          <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-        </ConditionalLocation>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-            <X>-1343.688</X>
-            <Y>-1080.618</Y>
-            <Z>6.937438</Z>
-          </Location>
-          <Heading>287.4272</Heading>
-          <Percentage>100</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <AllowAirVehicle>false</AllowAirVehicle>
-          <AllowBoat>false</AllowBoat>
-          <TaskRequirements>Guard</TaskRequirements>
-		  <ForcedScenarios>
-            <string>WORLD_HUMAN_SMOKING</string>
-          </ForcedScenarios>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-          <ForceVehicleGroup>false</ForceVehicleGroup>
-          <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-        </ConditionalLocation>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-            <X>-1342.239</X>
-            <Y>-1080.157</Y>
-            <Z>6.937223</Z>
-          </Location>
-          <Heading>102.4498</Heading>
-          <Percentage>100</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <AllowAirVehicle>false</AllowAirVehicle>
-          <AllowBoat>false</AllowBoat>
-          <TaskRequirements>Guard</TaskRequirements>
-		  <ForcedScenarios>
-            <string>WORLD_HUMAN_STAND_MOBILE</string>
-          </ForcedScenarios>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-          <ForceVehicleGroup>false</ForceVehicleGroup>
-          <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-        </ConditionalLocation>
-      </PossiblePedSpawns>
-      <PossibleVehicleSpawns>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-            <X>-1330.782</X>
-            <Y>-1091.067</Y>
-            <Z>6.980271</Z>
-          </Location>
-          <Heading>162.0316</Heading>
-          <Percentage>100</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <AllowAirVehicle>false</AllowAirVehicle>
-          <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-          <ForceVehicleGroup>false</ForceVehicleGroup>
-          <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-        </ConditionalLocation>
-      </PossibleVehicleSpawns>
-      <VendorLocations />
-      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
-      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
-      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
-      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
-      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
-      <VendorMeleePercent>20</VendorMeleePercent>
-      <VendorSidearmPercent>5</VendorSidearmPercent>
-      <VendorLongGunPercent>2</VendorLongGunPercent>
-      <VendorMoneyMin>-1</VendorMoneyMin>
-      <VendorMoneyMax>-1</VendorMoneyMax>
-      <VendorFightPercentage>-1</VendorFightPercentage>
-      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
-      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
-      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
-      <VendorCowerPercentage>-1</VendorCowerPercentage>
-      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
-      <VehiclePreviewCameraPosition>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </VehiclePreviewCameraPosition>
-      <VehiclePreviewLocation>
-        <Position>
-          <X>0</X>
-          <Y>0</Y>
-          <Z>0</Z>
-        </Position>
-        <Heading>0</Heading>
-      </VehiclePreviewLocation>
-      <VehicleDeliveryLocations>  
-        <SpawnPlace>
-          <Position>
-            <X>0</X>
-            <Y>0</Y>
-            <Z>0</Z>
-          </Position>
-          <Heading>0</Heading>
-        </SpawnPlace>
-      </VehicleDeliveryLocations>
-      <RegisterCashMin>250</RegisterCashMin>
-      <RegisterCashMax>1550</RegisterCashMax>
-      <NoEntryCam>false</NoEntryCam>
-      <MinPriceRefreshHours>0</MinPriceRefreshHours>
-      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
-      <MinRestockHours>0</MinRestockHours>
-      <MaxRestockHours>0</MaxRestockHours>
-      <CloseRange>10</CloseRange>
-      <RacketeeringAmountMin>500</RacketeeringAmountMin>
-      <RacketeeringAmountMax>1000</RacketeeringAmountMax>
-      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
-      <IsPrimaryGangDen>false</IsPrimaryGangDen>
-      <DisableNearbyScenarios>false</DisableNearbyScenarios>
-      <DisableScenarioDistance>50</DisableScenarioDistance>
-      <MaxAssaultSpawns>20</MaxAssaultSpawns>
       <RestrictAssaultSpawningUsingPedSpawns>false</RestrictAssaultSpawningUsingPedSpawns>
       <AssaultSpawnHeavyWeaponsPercent>80</AssaultSpawnHeavyWeaponsPercent>
     </GangDen>
@@ -11627,322 +11384,6 @@
       <IsOwnable>false</IsOwnable>
       <GrowthPercentage>20</GrowthPercentage>
       <IsPrimaryGangDen>false</IsPrimaryGangDen>
-      <DisableNearbyScenarios>false</DisableNearbyScenarios>
-      <DisableScenarioDistance>50</DisableScenarioDistance>
-      <MaxAssaultSpawns>30</MaxAssaultSpawns>
-      <RestrictAssaultSpawningUsingPedSpawns>false</RestrictAssaultSpawningUsingPedSpawns>
-      <AssaultSpawnHeavyWeaponsPercent>80</AssaultSpawnHeavyWeaponsPercent>
-    </GangDen>
-    <GangDen>
-      <Name>Angles of Death Clubhouse</Name>
-      <FullName>Angles of Death Clubhouse</FullName>
-      <Description />
-      <IsEnabled>true</IsEnabled>
-      <IsTemporarilyClosed>false</IsTemporarilyClosed>
-      <BannerImagePath>gangs\angelsofdeath.png</BannerImagePath>
-      <RemoveBanner>false</RemoveBanner>
-      <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>378</MapIcon>
-      <MapIconColorString>White</MapIconColorString>
-      <MapIconScale>0.5</MapIconScale>
-      <MapIconRadius>1</MapIconRadius>
-      <MapOpenIconAlpha>1</MapOpenIconAlpha>
-      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
-      <EntrancePosition>
-        <X>564.5187</X>
-        <Y>2598.906</Y>
-        <Z>43.87211</Z>
-      </EntrancePosition>
-      <EntranceHeading>108.823</EntranceHeading>
-      <OpenTime>0</OpenTime>
-      <CloseTime>24</CloseTime>
-      <InteriorID>-1</InteriorID>
-      <IsWalkup>false</IsWalkup>
-      <IsOnSPMap>true</IsOnSPMap>
-      <IsOnMPMap>true</IsOnMPMap>
-      <ShowsOnDirectory>false</ShowsOnDirectory>
-      <ShowsOnTaxi>true</ShowsOnTaxi>
-      <TypeName>Gang Den</TypeName>
-      <SortOrder>999</SortOrder>
-      <ScannerFilePath />
-      <ActivateCells>4</ActivateCells>
-      <ActivateDistance>225</ActivateDistance>
-      <AssignedAssociationID>AMBIENT_GANG_ANGELS</AssignedAssociationID>
-      <DisableRegularInteract>false</DisableRegularInteract>
-      <MenuID>LostDenMenu</MenuID>
-      <CameraPosition>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </CameraPosition>
-      <CameraDirection>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </CameraDirection>
-      <CameraRotation>
-        <Pitch>0</Pitch>
-        <Roll>0</Roll>
-        <Yaw>0</Yaw>
-      </CameraRotation>
-      <CanInteractWhenWanted>true</CanInteractWhenWanted>
-      <ShowsMarker>true</ShowsMarker>
-      <PossiblePedSpawns>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-            <X>560.9178</X>
-            <Y>2602.27</Y>
-            <Z>43.02237</Z>
-          </Location>
-          <Heading>158.5504</Heading>
-          <Percentage>65</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <AllowAirVehicle>false</AllowAirVehicle>
-          <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-          <ForceVehicleGroup>false</ForceVehicleGroup>
-          <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-        </ConditionalLocation>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-            <X>562.6679</X>
-            <Y>2594.881</Y>
-            <Z>43.02491</Z>
-          </Location>
-          <Heading>86.77177</Heading>
-          <Percentage>65</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <AllowAirVehicle>false</AllowAirVehicle>
-          <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-          <ForceVehicleGroup>false</ForceVehicleGroup>
-          <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-        </ConditionalLocation>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-            <X>567.6641</X>
-            <Y>2590.169</Y>
-            <Z>42.81374</Z>
-          </Location>
-          <Heading>133.1242</Heading>
-          <Percentage>65</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <AllowAirVehicle>false</AllowAirVehicle>
-          <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-          <ForceVehicleGroup>false</ForceVehicleGroup>
-          <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-        </ConditionalLocation>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-            <X>561.3026</X>
-            <Y>2610.389</Y>
-            <Z>42.86051</Z>
-          </Location>
-          <Heading>30.94393</Heading>
-          <Percentage>65</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <AllowAirVehicle>false</AllowAirVehicle>
-          <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-          <ForceVehicleGroup>false</ForceVehicleGroup>
-          <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-        </ConditionalLocation>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-            <X>559.5026</X>
-            <Y>2621.251</Y>
-            <Z>42.9962</Z>
-          </Location>
-          <Heading>62.93612</Heading>
-          <Percentage>65</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <AllowAirVehicle>false</AllowAirVehicle>
-          <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-          <ForceVehicleGroup>false</ForceVehicleGroup>
-          <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-        </ConditionalLocation>
-      </PossiblePedSpawns>
-      <PossibleVehicleSpawns>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-            <X>571.2027</X>
-            <Y>2589.197</Y>
-            <Z>42.81371</Z>
-          </Location>
-          <Heading>97.68387</Heading>
-          <Percentage>75</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <AllowAirVehicle>false</AllowAirVehicle>
-          <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-          <ForceVehicleGroup>false</ForceVehicleGroup>
-          <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-        </ConditionalLocation>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-            <X>557.566</X>
-            <Y>2593.706</Y>
-            <Z>42.81371</Z>
-          </Location>
-          <Heading>9.633554</Heading>
-          <Percentage>75</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <AllowAirVehicle>false</AllowAirVehicle>
-          <AllowBoat>false</AllowBoat>
-          <TaskRequirements>None</TaskRequirements>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-          <ForceVehicleGroup>false</ForceVehicleGroup>
-          <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-        </ConditionalLocation>
-      </PossibleVehicleSpawns>
-      <VendorLocations />
-      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
-      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
-      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
-      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
-      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
-      <VendorMeleePercent>20</VendorMeleePercent>
-      <VendorSidearmPercent>5</VendorSidearmPercent>
-      <VendorLongGunPercent>2</VendorLongGunPercent>
-      <VendorMoneyMin>-1</VendorMoneyMin>
-      <VendorMoneyMax>-1</VendorMoneyMax>
-      <VendorFightPercentage>-1</VendorFightPercentage>
-      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
-      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
-      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
-      <VendorCowerPercentage>-1</VendorCowerPercentage>
-      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
-      <VehiclePreviewCameraPosition>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </VehiclePreviewCameraPosition>
-      <VehiclePreviewCameraDirection>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </VehiclePreviewCameraDirection>
-      <VehiclePreviewCameraRotation>
-        <Pitch>0</Pitch>
-        <Roll>0</Roll>
-        <Yaw>0</Yaw>
-      </VehiclePreviewCameraRotation>
-      <VehiclePreviewLocation>
-        <Position>
-          <X>548.1042</X>
-          <Y>2602.095</Y>
-          <Z>42.78351</Z>
-        </Position>
-        <Heading>78.18074</Heading>
-      </VehiclePreviewLocation>
-      <VehicleDeliveryLocations>
-        <SpawnPlace>
-          <Position>
-            <X>547.9156</X>
-            <Y>2592.404</Y>
-            <Z>42.90622</Z>
-          </Position>
-          <Heading>40.88092</Heading>
-        </SpawnPlace>
-      </VehicleDeliveryLocations>
-      <RegisterCashMin>250</RegisterCashMin>
-      <RegisterCashMax>1550</RegisterCashMax>
-      <NoEntryCam>false</NoEntryCam>
-      <MinPriceRefreshHours>0</MinPriceRefreshHours>
-      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
-      <MinRestockHours>0</MinRestockHours>
-      <MaxRestockHours>0</MaxRestockHours>
-      <CloseRange>10</CloseRange>
-      <RacketeeringAmountMin>500</RacketeeringAmountMin>
-      <RacketeeringAmountMax>1000</RacketeeringAmountMax>
-      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
-      <PurchasePrice>0</PurchasePrice>
-      <PayoutFrequency>7</PayoutFrequency>
-      <PayoutMin>0</PayoutMin>
-      <PayoutMax>0</PayoutMax>
-      <SalesPrice>0</SalesPrice>
-      <MaxSalesPrice>0</MaxSalesPrice>
-      <IsOwnable>false</IsOwnable>
-      <GrowthPercentage>20</GrowthPercentage>
-      <IsPrimaryGangDen>true</IsPrimaryGangDen>
       <DisableNearbyScenarios>false</DisableNearbyScenarios>
       <DisableScenarioDistance>50</DisableScenarioDistance>
       <MaxAssaultSpawns>30</MaxAssaultSpawns>
@@ -30561,6 +30002,7 @@
       <DriversLicenseFee>150</DriversLicenseFee>
       <CCWLicenseFee>1500</CCWLicenseFee>
       <PilotsLicenseFee>2500</PilotsLicenseFee>
+      <VehicleRegistrationFee>2500</VehicleRegistrationFee>
     </CityHall>
     <CityHall>
       <Name>Los Santos City Hall</Name>
@@ -30670,6 +30112,7 @@
       <DriversLicenseFee>150</DriversLicenseFee>
       <CCWLicenseFee>1500</CCWLicenseFee>
       <PilotsLicenseFee>2500</PilotsLicenseFee>
+      <VehicleRegistrationFee>2500</VehicleRegistrationFee>
     </CityHall>
     <CityHall>
       <Name>Davis City Hall</Name>
@@ -30779,6 +30222,7 @@
       <DriversLicenseFee>150</DriversLicenseFee>
       <CCWLicenseFee>1500</CCWLicenseFee>
       <PilotsLicenseFee>2500</PilotsLicenseFee>
+      <VehicleRegistrationFee>2500</VehicleRegistrationFee>
     </CityHall>
     <CityHall>
       <Name>Del Perro City Hall</Name>
@@ -30888,6 +30332,7 @@
       <DriversLicenseFee>150</DriversLicenseFee>
       <CCWLicenseFee>1500</CCWLicenseFee>
       <PilotsLicenseFee>2500</PilotsLicenseFee>
+      <VehicleRegistrationFee>2500</VehicleRegistrationFee>
     </CityHall>
   </CityHalls>
   <VendingMachines />
@@ -39127,73 +38572,6 @@
     </FireStation>
   </FireStations>
   <Restaurants>
-    <Restaurant>
-    <Name>Drusilla’s</Name>
-    <FullName>Drusilla’s Italian Restaurant</FullName>
-    <Description>Authentic Italian cuisine, served fresh daily.</Description>
-    <IsEnabled>true</IsEnabled>
-    <IsTemporarilyClosed>false</IsTemporarilyClosed>
-    <BannerImagePath />
-    <RemoveBanner>false</RemoveBanner>
-    <IsBlipEnabled>true</IsBlipEnabled>
-    <MapIcon>267</MapIcon>
-    <MapIconColorString>Yellow</MapIconColorString>
-    <MapIconScale>0.5</MapIconScale>
-    <MapIconRadius>1</MapIconRadius>
-    <MapOpenIconAlpha>1</MapOpenIconAlpha>
-    <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
-    <EntrancePosition>
-      <X>-1345.857</X>
-      <Y>-1064.853</Y>
-      <Z>7.4041</Z>
-    </EntrancePosition>
-    <EntranceHeading>-149.5296</EntranceHeading>
-    <OpenTime>11</OpenTime>
-    <CloseTime>23</CloseTime>
-    <InteriorID>-1</InteriorID>
-    <IsWalkup>false</IsWalkup>
-    <IsOnSPMap>true</IsOnSPMap>
-    <IsOnMPMap>true</IsOnMPMap>
-    <ShowsOnDirectory>true</ShowsOnDirectory>
-    <ShowsOnTaxi>true</ShowsOnTaxi>
-    <TypeName>Restaurant</TypeName>
-    <SortOrder>999</SortOrder>
-    <ScannerFilePath />
-    <ActivateCells>4</ActivateCells>
-    <ActivateDistance>225</ActivateDistance>
-    <DisableRegularInteract>false</DisableRegularInteract>
-    <MenuID>PizzaMenu</MenuID>
-    <CameraPosition>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </CameraPosition>
-    <CameraDirection>
-      <X>0</X>
-      <Y>0</Y>
-      <Z>0</Z>
-    </CameraDirection>
-    <CameraRotation>
-      <Pitch>0</Pitch>
-      <Roll>0</Roll>
-      <Yaw>0</Yaw>
-    </CameraRotation>
-    <CanInteractWhenWanted>false</CanInteractWhenWanted>
-    <ShowsMarker>true</ShowsMarker>
-    <VendorLocations>
-      <SpawnPlace>
-        <Position>
-          <X>-1345.393</X>
-          <Y>-1064.77</Y>
-          <Z>7.390724</Z>
-        </Position>
-        <Heading>208.6879</Heading>
-      </SpawnPlace>
-      <VendorPersonnelID>DrusillasVendor</VendorPersonnelID>
-      <VendorMenu>PizzaMenu</VendorMenu>
-      <VendorType>Restaurant</VendorType>
-    </VendorLocations>
-    </Restaurant>
     <Restaurant>
       <Name>Pipeline Inn</Name>
       <FullName>Pipeline Inn</FullName>
@@ -56577,7 +55955,7 @@
     </Business>
     <Business>
       <Name>Meth lab</Name>
-      <FullName>Sandy Shores, Meth lab</FullName>
+      <FullName>Cluckin Farm Meth lab</FullName>
       <Description />
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
@@ -56591,11 +55969,11 @@
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
       <EntrancePosition>
-        <X>201.6389</X>
-        <Y>2462.551</Y>
-        <Z>55.90598</Z>
+        <X>-106.583</X>
+        <Y>6210.964</Y>
+        <Z>31.025</Z>
       </EntrancePosition>
-      <EntranceHeading>200.5553</EntranceHeading>
+      <EntranceHeading>41.342</EntranceHeading>
       <OpenTime>0</OpenTime>
       <CloseTime>24</CloseTime>
       <InteriorID>247041</InteriorID>
@@ -56671,11 +56049,11 @@
       <RacketeeringAmountMin>500</RacketeeringAmountMin>
       <RacketeeringAmountMax>1000</RacketeeringAmountMax>
       <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
-      <PurchasePrice>730000</PurchasePrice>
-      <PayoutFrequency>7</PayoutFrequency>
+      <PurchasePrice>250000</PurchasePrice>
+      <PayoutFrequency>3</PayoutFrequency>
       <PayoutMin>0</PayoutMin>
       <PayoutMax>0</PayoutMax>
-      <SalesPrice>300000</SalesPrice>
+      <SalesPrice>130000</SalesPrice>
       <MaxSalesPrice>0</MaxSalesPrice>
       <IsOwnable>false</IsOwnable>
       <GrowthPercentage>20</GrowthPercentage>
@@ -56683,11 +56061,11 @@
       <PossibleModItemPayouts>
         <string>Methamphetamine</string>
       </PossibleModItemPayouts>
-      <ModItemPayoutAmount>200</ModItemPayoutAmount>
+      <ModItemPayoutAmount>250</ModItemPayoutAmount>
     </Business>
     <Business>
-      <Name>Meth Lab</Name>
-      <FullName>Davis, meth lab</FullName>
+      <Name>AOD Meth Lab</Name>
+      <FullName>Scrap Yard meth lab</FullName>
       <Description />
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
@@ -56701,14 +56079,14 @@
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
       <EntrancePosition>
-        <X>143.224</X>
-        <Y>-1656.096</Y>
-        <Z>29.48878</Z>
+        <X>-613.113</X>
+        <Y>-1624.397</Y>
+        <Z>33.011</Z>
       </EntrancePosition>
-      <EntranceHeading>226.5995</EntranceHeading>
+      <EntranceHeading>356.994</EntranceHeading>
       <OpenTime>0</OpenTime>
       <CloseTime>24</CloseTime>
-      <InteriorID>247041</InteriorID>
+      <InteriorID>267041</InteriorID>
       <IsWalkup>false</IsWalkup>
       <IsOnSPMap>false</IsOnSPMap>
       <IsOnMPMap>true</IsOnMPMap>
@@ -56785,7 +56163,7 @@
       <PayoutFrequency>7</PayoutFrequency>
       <PayoutMin>0</PayoutMin>
       <PayoutMax>0</PayoutMax>
-      <SalesPrice>300000</SalesPrice>
+      <SalesPrice>30000</SalesPrice>
       <MaxSalesPrice>0</MaxSalesPrice>
       <IsOwnable>false</IsOwnable>
       <GrowthPercentage>20</GrowthPercentage>
@@ -56793,7 +56171,7 @@
       <PossibleModItemPayouts>
         <string>Methamphetamine</string>
       </PossibleModItemPayouts>
-      <ModItemPayoutAmount>200</ModItemPayoutAmount>
+      <ModItemPayoutAmount>250</ModItemPayoutAmount>
     </Business>
     <Business>
       <Name>Document Forgery</Name>
@@ -61555,6 +60933,111 @@
       <TypeName>Landmark</TypeName>
       <SortOrder>999</SortOrder>
       <ScannerFilePath />
+      <ActivateCells>4</ActivateCells>
+      <ActivateDistance>225</ActivateDistance>
+      <DisableRegularInteract>false</DisableRegularInteract>
+      <CameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraPosition>
+      <CameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraDirection>
+      <CameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </CameraRotation>
+      <CanInteractWhenWanted>false</CanInteractWhenWanted>
+      <ShowsMarker>true</ShowsMarker>
+      <VendorLocations />
+      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
+      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
+      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
+      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
+      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
+      <VendorMeleePercent>20</VendorMeleePercent>
+      <VendorSidearmPercent>5</VendorSidearmPercent>
+      <VendorLongGunPercent>2</VendorLongGunPercent>
+      <VendorMoneyMin>-1</VendorMoneyMin>
+      <VendorMoneyMax>-1</VendorMoneyMax>
+      <VendorFightPercentage>-1</VendorFightPercentage>
+      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
+      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
+      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
+      <VendorCowerPercentage>-1</VendorCowerPercentage>
+      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+      <VehicleDeliveryLocations />
+      <RegisterCashMin>250</RegisterCashMin>
+      <RegisterCashMax>1550</RegisterCashMax>
+      <NoEntryCam>false</NoEntryCam>
+      <MinPriceRefreshHours>0</MinPriceRefreshHours>
+      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
+      <MinRestockHours>0</MinRestockHours>
+      <MaxRestockHours>0</MaxRestockHours>
+      <CloseRange>10</CloseRange>
+      <RacketeeringAmountMin>500</RacketeeringAmountMin>
+      <RacketeeringAmountMax>1000</RacketeeringAmountMax>
+      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
+      <PurchasePrice>0</PurchasePrice>
+      <PayoutFrequency>7</PayoutFrequency>
+      <PayoutMin>0</PayoutMin>
+      <PayoutMax>0</PayoutMax>
+      <SalesPrice>0</SalesPrice>
+      <MaxSalesPrice>0</MaxSalesPrice>
+      <IsOwnable>false</IsOwnable>
+      <GrowthPercentage>20</GrowthPercentage>
+    </Landmark>
+    <Landmark>
+      <Name>Clucking Bell Farms</Name>
+      <FullName>Clucking Bell Farms</FullName>
+      <Description>Know the saying about seeing how sausage is made?</Description>
+      <IsEnabled>true</IsEnabled>
+      <IsTemporarilyClosed>false</IsTemporarilyClosed>
+      <BannerImagePath />
+      <RemoveBanner>false</RemoveBanner>
+      <IsBlipEnabled>true</IsBlipEnabled>
+      <MapIcon>837</MapIcon>
+      <MapIconColorString>White</MapIconColorString>
+      <MapIconScale>0.5</MapIconScale>
+      <MapIconRadius>1</MapIconRadius>
+      <MapOpenIconAlpha>1</MapOpenIconAlpha>
+      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
+      <EntrancePosition>
+        <X>-34.58836</X>
+        <Y>6287.814</Y>
+        <Z>31.38976</Z>
+      </EntrancePosition>
+      <EntranceHeading>28.21855</EntranceHeading>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
+      <InteriorID>28162</InteriorID>
+      <IsWalkup>false</IsWalkup>
+      <IsOnSPMap>true</IsOnSPMap>
+      <IsOnMPMap>true</IsOnMPMap>
+      <ShowsOnDirectory>true</ShowsOnDirectory>
+      <ShowsOnTaxi>true</ShowsOnTaxi>
+      <TypeName>Landmark</TypeName>
+      <SortOrder>999</SortOrder>
+      <ScannerFilePath>01_specific_location\0x0D8D06A1.mp3</ScannerFilePath>
       <ActivateCells>4</ActivateCells>
       <ActivateDistance>225</ActivateDistance>
       <DisableRegularInteract>false</DisableRegularInteract>
@@ -85116,6 +84599,7 @@
       <IdentificationSalesPrice>45</IdentificationSalesPrice>
       <IdentificationPurchasePrice>450</IdentificationPurchasePrice>
       <MarkedBillsSalesPrice>1500</MarkedBillsSalesPrice>
+      <VehiclePickupDistance>25</VehiclePickupDistance>
     </Forger>
     <Forger>
       <Name>Zancone The Forger</Name>
@@ -85229,171 +84713,10 @@
       <IdentificationSalesPrice>45</IdentificationSalesPrice>
       <IdentificationPurchasePrice>450</IdentificationPurchasePrice>
       <MarkedBillsSalesPrice>1500</MarkedBillsSalesPrice>
+      <VehiclePickupDistance>25</VehiclePickupDistance>
     </Forger>
   </Forgers>
   <GamblingDens>
-    <GamblingDen>
-      <Name>Backroom Casino</Name>
-      <FullName>Backroom Casino</FullName>
-      <Description />
-      <IsEnabled>true</IsEnabled>
-      <IsTemporarilyClosed>false</IsTemporarilyClosed>
-      <BannerImagePath />
-      <RemoveBanner>false</RemoveBanner>
-      <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>680</MapIcon>
-      <MapIconColorString>White</MapIconColorString>
-      <MapIconScale>0.5</MapIconScale>
-      <MapIconRadius>1</MapIconRadius>
-      <MapOpenIconAlpha>1</MapOpenIconAlpha>
-      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
-      <EntrancePosition>
-        <X>-1354.596</X>
-        <Y>-1061.151</Y>
-        <Z>3.869165</Z>
-      </EntrancePosition>
-      <EntranceHeading>298.3694</EntranceHeading>
-      <OpenTime>18</OpenTime>
-      <CloseTime>4</CloseTime>
-      <InteriorID>-1</InteriorID>
-      <IsWalkup>false</IsWalkup>
-      <IsOnSPMap>true</IsOnSPMap>
-      <IsOnMPMap>true</IsOnMPMap>
-      <ShowsOnDirectory>false</ShowsOnDirectory>
-      <ShowsOnTaxi>true</ShowsOnTaxi>
-      <TypeName>Casino</TypeName>
-      <SortOrder>999</SortOrder>
-      <ScannerFilePath />
-      <ActivateCells>4</ActivateCells>
-      <ActivateDistance>225</ActivateDistance>
-      <AssignedAssociationID>AMBIENT_GANG_GAMBETTI</AssignedAssociationID>
-      <DisableRegularInteract>false</DisableRegularInteract>
-      <CameraPosition>
-        <X>-1360.711</X>
-        <Y>-1068.156</Y>
-        <Z>5.606787</Z>
-      </CameraPosition>
-      <CameraDirection>
-        <X>0.4029229</X>
-        <Y>0.80405</Y>
-        <Z>-0.4372149</Z>
-      </CameraDirection>
-      <CameraRotation>
-        <Pitch>-25.92631</Pitch>
-        <Roll>-4.746576E-06</Roll>
-        <Yaw>-26.61622</Yaw>
-      </CameraRotation>
-      <CanInteractWhenWanted>false</CanInteractWhenWanted>
-      <ShowsMarker>true</ShowsMarker>
-      <PossiblePedSpawns />
-      <PossibleVehicleSpawns />
-      <VendorLocations />
-      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
-      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
-      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
-      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
-      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
-      <VendorMeleePercent>20</VendorMeleePercent>
-      <VendorSidearmPercent>5</VendorSidearmPercent>
-      <VendorLongGunPercent>2</VendorLongGunPercent>
-      <VendorMoneyMin>-1</VendorMoneyMin>
-      <VendorMoneyMax>-1</VendorMoneyMax>
-      <VendorFightPercentage>-1</VendorFightPercentage>
-      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
-      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
-      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
-      <VendorCowerPercentage>-1</VendorCowerPercentage>
-      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
-      <VehiclePreviewCameraPosition>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </VehiclePreviewCameraPosition>
-      <VehiclePreviewCameraDirection>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </VehiclePreviewCameraDirection>
-      <VehiclePreviewCameraRotation>
-        <Pitch>0</Pitch>
-        <Roll>0</Roll>
-        <Yaw>0</Yaw>
-      </VehiclePreviewCameraRotation>
-      <VehicleDeliveryLocations />
-      <RegisterCashMin>2250</RegisterCashMin>
-      <RegisterCashMax>7550</RegisterCashMax>
-      <NoEntryCam>false</NoEntryCam>
-      <MinPriceRefreshHours>0</MinPriceRefreshHours>
-      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
-      <MinRestockHours>0</MinRestockHours>
-      <MaxRestockHours>0</MaxRestockHours>
-      <CloseRange>10</CloseRange>
-      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
-      <GamblingParameters>
-        <BlackJackGameRulesList>
-          <BlackJackGameRules>
-            <GameName>Low Stakes Blackjack</GameName>
-            <DealerName>The House</DealerName>
-            <MinBet>25</MinBet>
-            <MaxBet>2500</MaxBet>
-            <CanSurrender>true</CanSurrender>
-            <CanSplit>true</CanSplit>
-            <IsRestrictedToFriendly>false</IsRestrictedToFriendly>
-            <IsRestrictedToMember>false</IsRestrictedToMember>
-          </BlackJackGameRules>
-          <BlackJackGameRules>
-            <GameName>Associate Blackjack</GameName>
-            <DealerName>The House</DealerName>
-            <MinBet>100</MinBet>
-            <MaxBet>5000</MaxBet>
-            <CanSurrender>false</CanSurrender>
-            <CanSplit>true</CanSplit>
-            <IsRestrictedToFriendly>true</IsRestrictedToFriendly>
-            <IsRestrictedToMember>false</IsRestrictedToMember>
-          </BlackJackGameRules>
-          <BlackJackGameRules>
-            <GameName>Members Blackjack</GameName>
-            <DealerName>The House</DealerName>
-            <MinBet>500</MinBet>
-            <MaxBet>10000</MaxBet>
-            <CanSurrender>false</CanSurrender>
-            <CanSplit>true</CanSplit>
-            <IsRestrictedToFriendly>false</IsRestrictedToFriendly>
-            <IsRestrictedToMember>true</IsRestrictedToMember>
-          </BlackJackGameRules>
-        </BlackJackGameRulesList>
-        <RouletteGameRulesList>
-          <RouletteGameRules>
-            <GameName>Low Stakes Roulette</GameName>
-            <DealerName>The House</DealerName>
-            <MinBet>50</MinBet>
-            <MaxBet>500</MaxBet>
-            <IsRestrictedToFriendly>false</IsRestrictedToFriendly>
-            <IsRestrictedToMember>false</IsRestrictedToMember>
-          </RouletteGameRules>
-          <RouletteGameRules>
-            <GameName>Associate Roulette</GameName>
-            <DealerName>The House</DealerName>
-            <MinBet>250</MinBet>
-            <MaxBet>2500</MaxBet>
-            <IsRestrictedToFriendly>true</IsRestrictedToFriendly>
-            <IsRestrictedToMember>false</IsRestrictedToMember>
-          </RouletteGameRules>
-          <RouletteGameRules>
-            <GameName>Members Roulette</GameName>
-            <DealerName>The House</DealerName>
-            <MinBet>500</MinBet>
-            <MaxBet>5000</MaxBet>
-            <IsRestrictedToFriendly>false</IsRestrictedToFriendly>
-            <IsRestrictedToMember>true</IsRestrictedToMember>
-          </RouletteGameRules>
-        </RouletteGameRulesList>
-      </GamblingParameters>
-      <IsRestrictedToFriendly>false</IsRestrictedToFriendly>
-      <IsRestrictedToMember>false</IsRestrictedToMember>
-      <WinLimit>25000</WinLimit>
-      <WinLimitResetHours>24</WinLimitResetHours>
-    </GamblingDen>
     <GamblingDen>
       <Name>Be Lucky Los Santos!</Name>
       <FullName>Be Lucky Los Santos!</FullName>
@@ -88065,236 +87388,6 @@
     </VehicleModShop>
   </VehicleModShops>
   <Bars>
-    <Bar>
-      <Name>Bahama Mama's</Name>
-      <FullName>Bahama Mama's</FullName>
-      <Description />
-      <IsEnabled>true</IsEnabled>
-      <IsTemporarilyClosed>false</IsTemporarilyClosed>
-      <BannerImagePath />
-      <RemoveBanner>false</RemoveBanner>
-      <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>93</MapIcon>
-      <MapIconColorString>White</MapIconColorString>
-      <MapIconScale>0.5</MapIconScale>
-      <MapIconRadius>1</MapIconRadius>
-      <MapOpenIconAlpha>1</MapOpenIconAlpha>
-      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
-      <EntrancePosition>
-        <X>-1388.5</X>
-        <Y>-586.6741</Y>
-        <Z>30.21859</Z>
-      </EntrancePosition>
-      <EntranceHeading>31.53231</EntranceHeading>
-      <OpenTime>0</OpenTime>
-      <CloseTime>24</CloseTime>
-      <InteriorID>107778</InteriorID>
-      <IsWalkup>false</IsWalkup>
-      <IsOnSPMap>true</IsOnSPMap>
-      <IsOnMPMap>true</IsOnMPMap>
-      <ShowsOnDirectory>true</ShowsOnDirectory>
-      <ShowsOnTaxi>true</ShowsOnTaxi>
-      <TypeName>Bar</TypeName>
-      <SortOrder>999</SortOrder>
-      <ScannerFilePath />
-      <ActivateCells>4</ActivateCells>
-      <ActivateDistance>225</ActivateDistance>
-      <DisableRegularInteract>false</DisableRegularInteract>
-      <MenuID>BarMenu</MenuID>
-      <CameraPosition>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </CameraPosition>
-      <CameraDirection>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </CameraDirection>
-      <CameraRotation>
-        <Pitch>0</Pitch>
-        <Roll>0</Roll>
-        <Yaw>0</Yaw>
-      </CameraRotation>
-      <CanInteractWhenWanted>false</CanInteractWhenWanted>
-      <ShowsMarker>true</ShowsMarker>
-      <VendorLocations>
-        <SpawnPlace>
-          <Position>
-            <X>-1391.372</X>
-            <Y>-605.995</Y>
-            <Z>30.31955</Z>
-          </Position>
-          <Heading>116.404</Heading>
-        </SpawnPlace>
-      </VendorLocations>
-      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
-      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
-      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
-      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
-      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
-      <VendorMeleePercent>20</VendorMeleePercent>
-      <VendorSidearmPercent>5</VendorSidearmPercent>
-      <VendorLongGunPercent>2</VendorLongGunPercent>
-      <VendorMoneyMin>-1</VendorMoneyMin>
-      <VendorMoneyMax>-1</VendorMoneyMax>
-      <VendorFightPercentage>-1</VendorFightPercentage>
-      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
-      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
-      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
-      <VendorCowerPercentage>-1</VendorCowerPercentage>
-      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
-      <VehiclePreviewCameraPosition>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </VehiclePreviewCameraPosition>
-      <VehiclePreviewCameraDirection>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </VehiclePreviewCameraDirection>
-      <VehiclePreviewCameraRotation>
-        <Pitch>0</Pitch>
-        <Roll>0</Roll>
-        <Yaw>0</Yaw>
-      </VehiclePreviewCameraRotation>
-      <VehicleDeliveryLocations />
-      <RegisterCashMin>250</RegisterCashMin>
-      <RegisterCashMax>1550</RegisterCashMax>
-      <NoEntryCam>false</NoEntryCam>
-      <MinPriceRefreshHours>0</MinPriceRefreshHours>
-      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
-      <MinRestockHours>0</MinRestockHours>
-      <MaxRestockHours>0</MaxRestockHours>
-      <CloseRange>10</CloseRange>
-      <RacketeeringAmountMin>500</RacketeeringAmountMin>
-      <RacketeeringAmountMax>1000</RacketeeringAmountMax>
-      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
-      <PurchasePrice>0</PurchasePrice>
-      <PayoutFrequency>7</PayoutFrequency>
-      <PayoutMin>0</PayoutMin>
-      <PayoutMax>0</PayoutMax>
-      <SalesPrice>0</SalesPrice>
-      <MaxSalesPrice>0</MaxSalesPrice>
-      <IsOwnable>false</IsOwnable>
-      <GrowthPercentage>20</GrowthPercentage>
-    </Bar>
-    <Bar>
-      <Name>Tequila-La</Name>
-      <FullName>Tequila-La</FullName>
-      <Description />
-      <IsEnabled>true</IsEnabled>
-      <IsTemporarilyClosed>false</IsTemporarilyClosed>
-      <BannerImagePath />
-      <RemoveBanner>false</RemoveBanner>
-      <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>93</MapIcon>
-      <MapIconColorString>White</MapIconColorString>
-      <MapIconScale>0.5</MapIconScale>
-      <MapIconRadius>1</MapIconRadius>
-      <MapOpenIconAlpha>1</MapOpenIconAlpha>
-      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
-      <EntrancePosition>
-        <X>-564.6519</X>
-        <Y>276.2436</Y>
-        <Z>83.12064</Z>
-      </EntrancePosition>
-      <EntranceHeading>175.5771</EntranceHeading>
-      <OpenTime>0</OpenTime>
-      <CloseTime>24</CloseTime>
-      <InteriorID>72706</InteriorID>
-      <IsWalkup>false</IsWalkup>
-      <IsOnSPMap>true</IsOnSPMap>
-      <IsOnMPMap>true</IsOnMPMap>
-      <ShowsOnDirectory>true</ShowsOnDirectory>
-      <ShowsOnTaxi>true</ShowsOnTaxi>
-      <TypeName>Bar</TypeName>
-      <SortOrder>999</SortOrder>
-      <ScannerFilePath />
-      <ActivateCells>4</ActivateCells>
-      <ActivateDistance>225</ActivateDistance>
-      <DisableRegularInteract>false</DisableRegularInteract>
-      <MenuID>BarMenu</MenuID>
-      <CameraPosition>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </CameraPosition>
-      <CameraDirection>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </CameraDirection>
-      <CameraRotation>
-        <Pitch>0</Pitch>
-        <Roll>0</Roll>
-        <Yaw>0</Yaw>
-      </CameraRotation>
-      <CanInteractWhenWanted>false</CanInteractWhenWanted>
-      <ShowsMarker>true</ShowsMarker>
-      <VendorLocations>
-        <SpawnPlace>
-          <Position>
-            <X>-561.9947</X>
-            <Y>284.9062</Y>
-            <Z>82.17636</Z>
-          </Position>
-          <Heading>262.2369</Heading>
-        </SpawnPlace>
-      </VendorLocations>
-      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
-      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
-      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
-      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
-      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
-      <VendorMeleePercent>20</VendorMeleePercent>
-      <VendorSidearmPercent>5</VendorSidearmPercent>
-      <VendorLongGunPercent>2</VendorLongGunPercent>
-      <VendorMoneyMin>-1</VendorMoneyMin>
-      <VendorMoneyMax>-1</VendorMoneyMax>
-      <VendorFightPercentage>25</VendorFightPercentage>
-      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
-      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
-      <VendorFightPolicePercentage>10</VendorFightPolicePercentage>
-      <VendorCowerPercentage>-1</VendorCowerPercentage>
-      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
-      <VehiclePreviewCameraPosition>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </VehiclePreviewCameraPosition>
-      <VehiclePreviewCameraDirection>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </VehiclePreviewCameraDirection>
-      <VehiclePreviewCameraRotation>
-        <Pitch>0</Pitch>
-        <Roll>0</Roll>
-        <Yaw>0</Yaw>
-      </VehiclePreviewCameraRotation>
-      <VehicleDeliveryLocations />
-      <RegisterCashMin>250</RegisterCashMin>
-      <RegisterCashMax>1550</RegisterCashMax>
-      <NoEntryCam>false</NoEntryCam>
-      <MinPriceRefreshHours>0</MinPriceRefreshHours>
-      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
-      <MinRestockHours>0</MinRestockHours>
-      <MaxRestockHours>0</MaxRestockHours>
-      <CloseRange>10</CloseRange>
-      <RacketeeringAmountMin>500</RacketeeringAmountMin>
-      <RacketeeringAmountMax>1000</RacketeeringAmountMax>
-      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
-      <PurchasePrice>0</PurchasePrice>
-      <PayoutFrequency>7</PayoutFrequency>
-      <PayoutMin>0</PayoutMin>
-      <PayoutMax>0</PayoutMax>
-      <SalesPrice>0</SalesPrice>
-      <MaxSalesPrice>0</MaxSalesPrice>
-      <IsOwnable>false</IsOwnable>
-      <GrowthPercentage>20</GrowthPercentage>
-    </Bar>
     <Bar>
       <Name>Pitchers</Name>
       <FullName>Pitchers</FullName>

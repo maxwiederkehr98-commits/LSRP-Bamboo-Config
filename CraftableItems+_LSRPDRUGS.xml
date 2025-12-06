@@ -30,6 +30,7 @@
       <string>DrugLab</string>
     </CraftingFlags>
     </CraftableItem>
+
 	<CraftableItem>
     <Name>Cut Pure Meth</Name>
     <Resultant>Methamphetamine</Resultant>
@@ -57,6 +58,7 @@
       <string>Stove</string>
     </CraftingFlags>
     </CraftableItem>
+
     <CraftableItem>
     <Name>Cook Methamphetamine (P2P)</Name>
     <Resultant>Pure Blue Methamphetamine</Resultant>
@@ -95,6 +97,7 @@
       <string>JOURNEY2</string>
     </CraftingFlags>
   </CraftableItem>
+
   <CraftableItem>
     <Name>Cut 98% Coke</Name>
     <Resultant>Cocaine</Resultant>
@@ -122,6 +125,7 @@
       <string>DrugLab</string>
     </CraftingFlags>
   </CraftableItem>
+
   <CraftableItem>
     <Name>Acid</Name>
     <Resultant>LSD</Resultant>
@@ -153,6 +157,7 @@
       <string>DrugLab</string>
     </CraftingFlags>
   </CraftableItem>
+
   <CraftableItem>
     <Name>Weed</Name>
     <Resultant>Marijuana</Resultant>
@@ -186,6 +191,7 @@
     <Cooldown>1500</Cooldown>
     <CrimeId>DealingDrugs</CrimeId>
   </CraftableItem>
+
   <CraftableItem>
     <Name>Cut Cocaine</Name>
     <Resultant>Bashed Coke</Resultant>
